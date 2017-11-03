@@ -10,7 +10,7 @@
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》第12期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，请阅读 译文投稿指南，并与本期责任编辑 @@@ 联系。
 
-- Overcoming Disabilities, Communication of ACM, November 2017. pp. 17-19. [HTML] (https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities) ，翻译进行中... 特约译者：@@@，开始翻译：2017年11月2日
+- Overcoming Disabilities, Communication of ACM, November 2017. pp. 17-19. [HTML](https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities) ，翻译进行中... 特约译者：@@@，开始翻译：2017年11月2日
 
 - Blockchains: How They Work and Why They’ll Change the World, By MORGEN E. PECK, IEEE Spectrum, November 2017. [HTML](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world)，翻译进行中... 特约译者：@@@（Affiliate），开始翻译：2017年11月2日
 
