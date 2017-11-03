@@ -2,9 +2,15 @@
 
 ## 近期刊出译文
 
-### CCCF 2017年第10期 [HTML](http://www.ccf.org.cn/dl/publications/cccf/2017nd10q/)
+### CCCF 2017年第10期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd10q/)
 
 - [防黑客编程（译者：赵永望、冯新宇）](http://www.ccf.org.cn/c/2017-10-13/615548.shtml)，原文：[Hacking-Proof Coding](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext), By Esther Shein, Communications of the ACM, Vol. 60 No. 8, Pages 12-14. 刊发媒体：纸质版期刊
+
+### CCCF 2017年第9期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd9q/)
+
+- [人类自身会成为无人驾驶汽车发展的障碍吗？（译者：刘禹）](http://www.ccf.org.cn/c/2017-09-13/605131.shtml)，原文：[The Big Problem With Self-Driving Cars Is People](https://spectrum.ieee.org/transportation/self-driving/the-big-problem-with-selfdriving-cars-is-people), By RODNEY BROOKS, IEEE Spectrum, July 2017. 刊发媒体：纸质版期刊
+
+
 
 ## 2017年第11期征集译文
 
@@ -14,11 +20,11 @@
 
 - [Blockchains: How They Work and Why They’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world), By MORGEN E. PECK, IEEE Spectrum, November 2017. 翻译进行中... 特约译者：@@@（Affiliate），开始翻译：2017年11月2日
 
-- [Engaging the Ethics of Data Science in Practice](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext), By Solon Barocas, Danah Boyd, Communications of the ACM, Vol. 60 No. 11, Pages 23-25, 
+- [Engaging the Ethics of Data Science in Practice](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext), By Solon Barocas, Danah Boyd, Communications of the ACM, Vol. 60 No. 11, Pages 23-25.
 
-- Digital Hearing, By Don Monroe, Communications of the ACM, Vol. 60 No. 10, Pages 18-20, [HTML](https://cacm.acm.org/magazines/2017/10/221324-digital-hearing/fulltext)
+- [Digital Hearing](https://cacm.acm.org/magazines/2017/10/221324-digital-hearing/fulltext), By Don Monroe, Communications of the ACM, Vol. 60 No. 10, Pages 18-20.
 
-- Healthcare Robotics, By Laurel D. Riek, Communications of the ACM, Vol. 60 No. 11, Pages 68-78, [HTML](https://cacm.acm.org/magazines/2017/11/222171-healthcare-robotics/fulltext)
+- [Healthcare Robotics](https://cacm.acm.org/magazines/2017/11/222171-healthcare-robotics/fulltext), By Laurel D. Riek, Communications of the ACM, Vol. 60 No. 11, Pages 68-78.
 
 
 ## 译者投稿指南
