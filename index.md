@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+## 计算机学会通讯（CCCF）译文专栏
 
 You can use the [editor on GitHub](https://github.com/huchunming/cccf-translation-dashboard/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 当前 Pipeline
 
+- Overcoming Disabilities, Communication of ACM, November 2017. pp. 17-19. [HTML] (https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities) 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
