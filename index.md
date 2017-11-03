@@ -1,38 +1,35 @@
-## 计算机学会通讯（CCCF）译文专栏
+# 计算机学会通讯（CCCF）译文专栏
 
-You can use the [editor on GitHub](https://github.com/huchunming/cccf-translation-dashboard/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 近期刊出译文
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CCCF 2017年第10期 [HTML](http://www.ccf.org.cn/dl/publications/cccf/2017nd10q/)
 
-### 当前 Pipeline
+- 防黑客编程（译者：赵永望、冯新宇），原文：Hacking-Proof Coding, By Esther Shein, Communications of the ACM, Vol. 60 No. 8, Pages 12-14. [译文](http://www.ccf.org.cn/c/2017-10-13/615548.shtml)，[原文](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)，刊发媒体：纸质版期刊
 
-- Overcoming Disabilities, Communication of ACM, November 2017. pp. 17-19. [HTML] (https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities) 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 2017年第11期征集译文
 
-```markdown
-Syntax highlighted code block
+以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》第12期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，请阅读 译文投稿指南，并与本期责任编辑 @@@ 联系。
 
-# Header 1
-## Header 2
-### Header 3
+- Overcoming Disabilities, Communication of ACM, November 2017. pp. 17-19. [HTML] (https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities) ，翻译进行中... 特约译者：@@@，开始翻译：2017年11月2日
 
-- Bulleted
-- List
+- Blockchains: How They Work and Why They’ll Change the World, By MORGEN E. PECK, IEEE Spectrum, November 2017. [HTML](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world)，翻译进行中... 特约译者：@@@（Affiliate），开始翻译：2017年11月2日
 
-1. Numbered
-2. List
+- Engaging the Ethics of Data Science in Practice, By Solon Barocas, Danah Boyd, Communications of the ACM, Vol. 60 No. 11, Pages 23-25, [HTML](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext)
 
-**Bold** and _Italic_ and `Code` text
+- Digital Hearing, By Don Monroe, Communications of the ACM, Vol. 60 No. 10, Pages 18-20, [HTML](https://cacm.acm.org/magazines/2017/10/221324-digital-hearing/fulltext)
 
-[Link](url) and ![Image](src)
-```
+- Healthcare Robotics, By Laurel D. Riek, Communications of the ACM, Vol. 60 No. 11, Pages 68-78, [HTML](https://cacm.acm.org/magazines/2017/11/222171-healthcare-robotics/fulltext)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## 译者投稿指南
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huchunming/cccf-translation-dashboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+如您对上述译文选题感兴趣，欢迎发邮件到 xxxx@xxx.xxx，并在主题标明：CCCF译文投稿意向，在正文说明您的姓名、联系方式、工作单位、拟翻译的译文项目。我们会安排相关责任编委跟进翻译过程并提供相关协助。
 
-### Support or Contact
+如您已经完成了翻译，请发邮件到 xxx@xxx.xxx，并在主题标明：CCCF译文投稿，在正文说明您的姓名、联系方式、工作单位、拟翻译的译文项目及每位译者的姓名、150字左右的个人简介及一寸电子照片。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如有任何译文，请与本刊责任编辑直接联系咨询。
+
+## 联系我们
+
+CCCF译文主编：@@@
+CCCF译文编委：@@@、@@@、@@@、@@@
