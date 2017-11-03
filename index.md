@@ -4,17 +4,17 @@
 
 ### CCCF 2017年第10期 [HTML](http://www.ccf.org.cn/dl/publications/cccf/2017nd10q/)
 
-- 防黑客编程（译者：赵永望、冯新宇），原文：Hacking-Proof Coding, By Esther Shein, Communications of the ACM, Vol. 60 No. 8, Pages 12-14. [译文](http://www.ccf.org.cn/c/2017-10-13/615548.shtml)，[原文](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext)，刊发媒体：纸质版期刊
+- [防黑客编程（译者：赵永望、冯新宇）](http://www.ccf.org.cn/c/2017-10-13/615548.shtml)，原文：[Hacking-Proof Coding](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext), By Esther Shein, Communications of the ACM, Vol. 60 No. 8, Pages 12-14. 刊发媒体：纸质版期刊
 
 ## 2017年第11期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》第12期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，请阅读 译文投稿指南，并与本期责任编辑 @@@ 联系。
 
-- Overcoming Disabilities, Communication of ACM, November 2017. pp. 17-19. [HTML](https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities) ，翻译进行中... 特约译者：@@@，开始翻译：2017年11月2日
+- [Overcoming Disabilities](https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities), Communication of ACM, November 2017. pp. 17-19. 翻译进行中... 特约译者：@@@，开始翻译：2017年11月2日
 
-- Blockchains: How They Work and Why They’ll Change the World, By MORGEN E. PECK, IEEE Spectrum, November 2017. [HTML](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world)，翻译进行中... 特约译者：@@@（Affiliate），开始翻译：2017年11月2日
+- [Blockchains: How They Work and Why They’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world), By MORGEN E. PECK, IEEE Spectrum, November 2017. 翻译进行中... 特约译者：@@@（Affiliate），开始翻译：2017年11月2日
 
-- Engaging the Ethics of Data Science in Practice, By Solon Barocas, Danah Boyd, Communications of the ACM, Vol. 60 No. 11, Pages 23-25, [HTML](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext)
+- [Engaging the Ethics of Data Science in Practice](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext), By Solon Barocas, Danah Boyd, Communications of the ACM, Vol. 60 No. 11, Pages 23-25, 
 
 - Digital Hearing, By Don Monroe, Communications of the ACM, Vol. 60 No. 10, Pages 18-20, [HTML](https://cacm.acm.org/magazines/2017/10/221324-digital-hearing/fulltext)
 
