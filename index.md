@@ -2,6 +2,19 @@
 
 ## 近期刊出译文
 
+### CCCF 2018年第1期 [等待刊出]
+
+- [Blockchains: How They Work and Why They’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world), By MORGEN E. PECK, IEEE Spectrum, November 2017. 翻译完成，译文审稿中... 特约译者：王晶、郑子彬（中山大学），开始翻译：2017年12月2日，译文提交：2017年11月14日，译文审稿完成：2017年12月10日
+
+### CCCF 2017年第12期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd12q/)
+
+- [战胜残疾（译者：祁玉、潘刚）] (http://www.ccf.org.cn/c/2017-10-13/615548.shtml)，原文：[Overcoming Disabilities](https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities), Communication of ACM, November 2017. pp. 17-19. 刊发媒体：纸质版期刊
+
+### CCCF 2017年第11期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd11q/)
+
+- [防黑客编程（译者：赵永望、冯新宇）](http://www.ccf.org.cn/c/2017-10-13/615548.shtml)，原文：[Hacking-Proof Coding](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext), By Esther Shein, Communications of the ACM, Vol. 60 No. 8, Pages 12-14. 刊发媒体：纸质版期刊
+
+
 ### CCCF 2017年第10期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd10q/)
 
 - [防黑客编程（译者：赵永望、冯新宇）](http://www.ccf.org.cn/c/2017-10-13/615548.shtml)，原文：[Hacking-Proof Coding](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext), By Esther Shein, Communications of the ACM, Vol. 60 No. 8, Pages 12-14. 刊发媒体：纸质版期刊
@@ -12,13 +25,9 @@
 
 
 
-## 2017年第11期征集译文
+## 2018年第1-2期征集译文
 
-以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》第12期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，请阅读 译文投稿指南，并与本期责任编辑 @@@ 联系。
-
-- [Overcoming Disabilities](https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities), Communication of ACM, November 2017. pp. 17-19. 翻译进行中... 特约译者：@@@，开始翻译：2017年11月2日
-
-- [Blockchains: How They Work and Why They’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world), By MORGEN E. PECK, IEEE Spectrum, November 2017. 翻译进行中... 特约译者：@@@（Affiliate），开始翻译：2017年11月2日
+以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，请阅读 译文投稿指南，并与本期责任编辑 卜佳俊（bjj@zju.edu.cn） 联系。
 
 - [Engaging the Ethics of Data Science in Practice](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext), By Solon Barocas, Danah Boyd, Communications of the ACM, Vol. 60 No. 11, Pages 23-25.
 
@@ -29,13 +38,13 @@
 
 ## 译者投稿指南
 
-如您对上述译文选题感兴趣，欢迎发邮件到 xxxx@xxx.xxx，并在主题标明：CCCF译文投稿意向，在正文说明您的姓名、联系方式、工作单位、拟翻译的译文项目。我们会安排相关责任编委跟进翻译过程并提供相关协助。
+如您对上述译文选题感兴趣，欢迎发邮件到 hucm@buaa.edu.cn，并在主题标明：CCCF译文投稿意向，在正文说明您的姓名、联系方式、工作单位、拟翻译的译文项目。我们会安排相关责任编委跟进翻译过程并提供相关协助。
 
-如您已经完成了翻译，请发邮件到 xxx@xxx.xxx，并在主题标明：CCCF译文投稿，在正文说明您的姓名、联系方式、工作单位、拟翻译的译文项目及每位译者的姓名、150字左右的个人简介及一寸电子照片。
+如您已经完成了翻译，请发邮件到 hucm@buaa.edu.cn，并在主题标明：CCCF译文投稿，在正文说明您的姓名、联系方式、工作单位、拟翻译的译文项目及每位译者的姓名、150字左右的个人简介及一寸电子照片。
 
 如有任何译文，请与本刊责任编辑直接联系咨询。
 
 ## 联系我们
 
-CCCF译文主编：@@@
-CCCF译文编委：@@@、@@@、@@@、@@@
+CCCF译文主编：卜佳俊（浙江大学）
+CCCF译文编委：苗启广（西安电子科技大学）、姜波（浙江工商大学）、胡春明（北京航空航天大学）
