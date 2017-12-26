@@ -8,7 +8,7 @@
 
 ### CCCF 2017年第12期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd12q/)
 
-- [战胜残疾（译者：祁玉、潘刚）](http://www.ccf.org.cn/c/2017-10-13/615548.shtml)，原文：[Overcoming Disabilities](https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities), Communication of ACM, November 2017. pp. 17-19. 刊发媒体：纸质版期刊
+- [战胜残疾（译者：祁玉、潘刚）](http://www.ccf.org.cn/c/2017-12-13/620958.shtml)，原文：[Overcoming Disabilities](https://cacm.acm.org/magazines/2017/11/222173-overcoming-disabilities), Communication of ACM, November 2017. pp. 17-19. 刊发媒体：纸质版期刊
 
 ### CCCF 2017年第11期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd11q/)
 
