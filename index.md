@@ -29,6 +29,12 @@
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，请阅读 译文投稿指南，并与本期责任编辑 卜佳俊（bjj@zju.edu.cn） 联系。
 
+- [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16.
+
+- [Energy Efficiency: A New Concern for Application Software Developers](https://cacm.acm.org/magazines/2017/12/223044-energy-efficiency/fulltext), By Gustavo Pinto, Fernando Castor, Communications of ACM, Vol. 60 No. 12, Pages 68-75.
+
+- [Bitcoin's Academic Pedigree](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45.
+
 - [Engaging the Ethics of Data Science in Practice](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext), By Solon Barocas, Danah Boyd, Communications of the ACM, Vol. 60 No. 11, Pages 23-25.
 
 - [Digital Hearing](https://cacm.acm.org/magazines/2017/10/221324-digital-hearing/fulltext), By Don Monroe, Communications of the ACM, Vol. 60 No. 10, Pages 18-20.
