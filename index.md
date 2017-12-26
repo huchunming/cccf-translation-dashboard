@@ -4,7 +4,7 @@
 
 ### CCCF 2018年第1期 [等待刊出]
 
-- [Blockchains: How They Work and Why They’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world), By MORGEN E. PECK, IEEE Spectrum, November 2017. 翻译完成，译文审稿中... 特约译者：王晶、郑子彬（中山大学），开始翻译：2017年12月2日，译文提交：2017年11月14日，译文审稿完成：2017年12月10日
+- [Blockchains: How They Work and Why They’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world), By MORGEN E. PECK, IEEE Spectrum, November 2017. 译文排版中... 特约译者：王晶、郑子彬（中山大学），开始翻译：2017年12月2日，译文提交：2017年11月14日，译文审稿完成：2017年12月10日
 
 ### CCCF 2017年第12期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd12q/)
 
