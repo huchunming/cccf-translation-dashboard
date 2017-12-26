@@ -12,7 +12,7 @@
 
 ### CCCF 2017年第11期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd11q/)
 
-- [防黑客编程（译者：赵永望、冯新宇）](http://www.ccf.org.cn/c/2017-10-13/615548.shtml)，原文：[Hacking-Proof Coding](https://cacm.acm.org/magazines/2017/8/219596-hacker-proof-coding/fulltext), By Esther Shein, Communications of the ACM, Vol. 60 No. 8, Pages 12-14. 刊发媒体：纸质版期刊
+- [人工智能的真正风险（译者：胡欣宇）](http://www.ccf.org.cn/c/2017-11-15/618341.shtml)，原文：[The Real Risks of Artificial Intelligence](https://cacm.acm.org/magazines/2017/10/221330-the-real-risks-of-artificial-intelligence/fulltext), By David Lorge Parnas, Communications of the ACM, Vol. 60 No. 10, Pages 27-31. 刊发媒体：纸质版期刊
 
 
 ### CCCF 2017年第10期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd10q/)
