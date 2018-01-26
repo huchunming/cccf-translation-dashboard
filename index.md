@@ -2,9 +2,16 @@
 
 ## 近期刊出译文
 
+### CCCF 2018年第2期 已投稿译文
+
+- [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16. 特约译者：刘宇航，翻译已完成，译文审稿中。
+
+- [Energy Efficiency: A New Concern for Application Software Developers](https://cacm.acm.org/magazines/2017/12/223044-energy-efficiency/fulltext), By Gustavo Pinto, Fernando Castor, Communications of ACM, Vol. 60 No. 12, Pages 68-75. 特约译者：鄢萌、夏鑫、杨小虎（浙江大学）、李睿（国防科技大学），翻译已完成，译文审稿中。
+
+
 ### CCCF 2018年第1期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd1q/)
 
-- [Blockchains: How They Work and Why They’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world), By MORGEN E. PECK, IEEE Spectrum, November 2017. 译文排版中... 特约译者：王晶、郑子彬（中山大学），开始翻译：2017年12月2日，译文提交：2017年11月14日，译文审稿完成：2017年12月10日，刊发媒体：纸质版期刊
+- [Blockchains: How They Work and Why They’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world), By MORGEN E. PECK, IEEE Spectrum, November 2017. 特约译者：王晶、郑子彬（中山大学），开始翻译：2017年12月2日，译文提交：2017年11月14日，译文审稿完成：2017年12月10日，刊发媒体：纸质版期刊
 
 ### CCCF 2017年第12期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd12q/)
 
@@ -27,22 +34,18 @@
 
 ## 2018年第1-2期征集译文
 
-以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，请阅读 译文投稿指南，并与本期责任编辑 卜佳俊（bjj@zju.edu.cn） 联系。
+以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 卜佳俊（bjj@zju.edu.cn） 联系。
 
-- [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16.
+- [Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage 
+Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航，开始翻译：2018年1月25日
 
-- [Energy Efficiency: A New Concern for Application Software Developers](https://cacm.acm.org/magazines/2017/12/223044-energy-efficiency/fulltext), By Gustavo Pinto, Fernando Castor, Communications of ACM, Vol. 60 No. 12, Pages 68-75.
+- [What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 版权协议已确认，正在征集翻译志愿者
 
-- [Bitcoin's Academic Pedigree](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45.
+- [Bitcoin's Academic Pedigree](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45. 正在征集翻译志愿者
 
-- [What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 
+- [Digital Hearing](https://cacm.acm.org/magazines/2017/10/221324-digital-hearing/fulltext), By Don Monroe, Communications of the ACM, Vol. 60 No. 10, Pages 18-20. 正在征集翻译志愿者
 
-- [Engaging the Ethics of Data Science in Practice](https://cacm.acm.org/magazines/2017/11/222176-engaging-the-ethics-of-data-science-in-practice/fulltext), By Solon Barocas, Danah Boyd, Communications of the ACM, Vol. 60 No. 11, Pages 23-25.
-
-- [Digital Hearing](https://cacm.acm.org/magazines/2017/10/221324-digital-hearing/fulltext), By Don Monroe, Communications of the ACM, Vol. 60 No. 10, Pages 18-20.
-
-- [Healthcare Robotics](https://cacm.acm.org/magazines/2017/11/222171-healthcare-robotics/fulltext), By Laurel D. Riek, Communications of the ACM, Vol. 60 No. 11, Pages 68-78.
-
+- [Healthcare Robotics](https://cacm.acm.org/magazines/2017/11/222171-healthcare-robotics/fulltext), By Laurel D. Riek, Communications of the ACM, Vol. 60 No. 11, Pages 68-78. 正在征集翻译志愿者
 
 ## 译者投稿指南
 
