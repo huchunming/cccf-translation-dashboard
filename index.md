@@ -26,7 +26,7 @@ Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航�
 
 ## 2018年第4-5期征集译文
 
-以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
+以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第4-5期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
 
 - [Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 正在征集翻译志愿者
 
