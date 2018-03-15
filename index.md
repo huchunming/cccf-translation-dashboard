@@ -4,7 +4,12 @@
 
 ### CCCF 2018年第3期 已投稿译文
 
-- [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16. 特约译者：刘宇航，排版付印，刊发媒体：纸质版期刊。
+- [Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage 
+Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航，翻译完毕，正在审稿。
+
+- [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16. 特约译者：刘宇航，翻译完毕，正在审稿。
+
+- [What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 版权协议已确认，特约译者：宋明黎，开始翻译：2018年1月19日
 
 ### CCCF 2018年第2期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd2q/)
 
@@ -19,10 +24,9 @@
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
 
-- [Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage 
-Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航，开始翻译：2018年1月25日
+- [Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 正在征集翻译志愿者
 
-- [What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 版权协议已确认，特约译者：宋明黎，开始翻译：2018年1月19日
+- [How Can We Trust a Robot](https://cacm.acm.org/magazines/2018/3/225480-how-can-we-trust-a-robot/fulltext), By Benjamin Kuipers, Communications of ACM, Vol 61 No. 3, Pages 86-95. 正在征集翻译志愿者
 
 - [Bitcoin's Academic Pedigree](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45. 正在征集翻译志愿者
 
