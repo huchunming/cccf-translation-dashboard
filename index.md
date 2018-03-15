@@ -9,7 +9,7 @@ Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航�
 
 - [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16. 特约译者：刘宇航，翻译完毕，正在审稿。
 
-- [What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 版权协议已确认，特约译者：宋明黎，开始翻译：2018年1月19日
+- [What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 版权协议已确认，特约译者：宋明黎，翻译完毕，正在审稿。
 
 ### CCCF 2018年第2期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd2q/)
 
