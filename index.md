@@ -2,14 +2,18 @@
 
 ## 近期刊出译文
 
-### CCCF 2018年第3期 已投稿译文
+### CCCF 2018年第4期 已投稿译文
 
 - [Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage 
 Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航，翻译完毕，正在审稿。
 
 - [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16. 特约译者：刘宇航，翻译完毕，正在审稿。
 
+
+### CCCF 2018年第3期 即将刊出
+
 - [What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 版权协议已确认，特约译者：宋明黎，翻译完毕，正在审稿。
+
 
 ### CCCF 2018年第2期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd2q/)
 
@@ -28,11 +32,9 @@ Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航�
 
 - [How Can We Trust a Robot](https://cacm.acm.org/magazines/2018/3/225480-how-can-we-trust-a-robot/fulltext), By Benjamin Kuipers, Communications of ACM, Vol 61 No. 3, Pages 86-95. 正在征集翻译志愿者
 
+- [Making Security Sustainable](https://cacm.acm.org/magazines/2018/3/225467-making-security-sustainable/fulltext), By Ross Anderson, Communications of the ACM, Vol. 61 No. 3, Pages 24-26. 正在征集翻译志愿者
+
 - [Bitcoin's Academic Pedigree](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45. 正在征集翻译志愿者
-
-- [Digital Hearing](https://cacm.acm.org/magazines/2017/10/221324-digital-hearing/fulltext), By Don Monroe, Communications of the ACM, Vol. 60 No. 10, Pages 18-20. 正在征集翻译志愿者
-
-- [Healthcare Robotics](https://cacm.acm.org/magazines/2017/11/222171-healthcare-robotics/fulltext), By Laurel D. Riek, Communications of the ACM, Vol. 60 No. 11, Pages 68-78. 正在征集翻译志愿者
 
 
 ## CCCF 译文栏目已刊出译文（2018）
