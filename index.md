@@ -4,7 +4,7 @@
 
 ### CCCF 2018年第5期 已投稿译文
 
-- [Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 特约译者：丁效、卢暾，翻译完毕，正在审稿。
+- [Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 特约译者：丁效、崔佳鸣、卢暾，翻译完毕，正在审稿。
 
 - [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16. 特约译者：刘宇航，翻译完毕，正在审稿。
 
