@@ -10,8 +10,7 @@
 
 ### CCCF 2018年第4期 即将刊出
 
-- [Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage 
-Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航，翻译完毕，正在审稿。
+- [无服务器化计算（译者：刘宇航）]()，原文：[Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage, Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 刊发媒体：纸质版期刊。
 
 ### CCCF 2018年第3期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd3q/)
 
