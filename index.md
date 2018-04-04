@@ -2,33 +2,28 @@
 
 ## 近期刊出译文
 
-### CCCF 2018年第4期 已投稿译文
+### CCCF 2018年第5期 已投稿译文
+
+- [Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 特约译者：丁效、卢暾，翻译完毕，正在审稿。
+
+- [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16. 特约译者：刘宇航，翻译完毕，正在审稿。
+
+### CCCF 2018年第4期 即将刊出
 
 - [Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage 
 Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航，翻译完毕，正在审稿。
 
-- [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16. 特约译者：刘宇航，翻译完毕，正在审稿。
+### CCCF 2018年第3期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd3q/)
 
-
-### CCCF 2018年第3期 即将刊出
-
-- [What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 版权协议已确认，特约译者：宋明黎，翻译完毕，正在审稿。
-
+- [机器学习能做什么--论其对劳动力的影响（译者：宋明黎）](http://www.ccf.org.cn/c/2018-03-16/623927.shtml)，原文：[What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 刊发媒体：纸质版期刊
 
 ### CCCF 2018年第2期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd2q/)
 
 - [能效：软件应用开发人员需要考虑的新问题（译者：嫣萌、夏鑫、杨小虎、李睿）](http://www.ccf.org.cn/ccf/readPDF/readOnline?SiteID=122&ContentID=623003)，原文：[Energy Efficiency: A New Concern for Application Software Developers](https://cacm.acm.org/magazines/2017/12/223044-energy-efficiency/fulltext), By Gustavo Pinto, Fernando Castor, Communications of ACM, Vol. 60 No. 12, Pages 68-75. 刊发媒体：纸质版期刊
 
-### CCCF 2018年第1期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd1q/)
-
-- [区块链：运作原理与应用前景（译者：王晶、郑子彬）](http://www.ccf.org.cn/ccf/readPDF/readOnline?SiteID=122&ContentID=622418)，原文：[Blockchains: How They Work and Why They’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world), By MORGEN E. PECK, IEEE Spectrum, November 2017. 刊发媒体：纸质版期刊
-
-
 ## 2018年第4-5期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第4-5期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
-
-- [Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 正在征集翻译志愿者
 
 - [How Can We Trust a Robot](https://cacm.acm.org/magazines/2018/3/225480-how-can-we-trust-a-robot/fulltext), By Benjamin Kuipers, Communications of ACM, Vol 61 No. 3, Pages 86-95. 正在征集翻译志愿者
 
@@ -38,6 +33,10 @@ Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航�
 
 
 ## CCCF 译文栏目已刊出译文（2018）
+
+### CCCF 2018年第3期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd3q/)
+
+- [机器学习能做什么--论其对劳动力的影响（译者：宋明黎）](http://www.ccf.org.cn/c/2018-03-16/623927.shtml)，原文：[What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 刊发媒体：纸质版期刊
 
 ### CCCF 2018年第2期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd2q/)
 
@@ -65,8 +64,6 @@ Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 特约译者：刘宇航�
 ### CCCF 2017年第9期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd9q/)
 
 - [人类自身会成为无人驾驶汽车发展的障碍吗？（译者：刘禹）](http://www.ccf.org.cn/c/2017-09-13/605131.shtml)，原文：[The Big Problem With Self-Driving Cars Is People](https://spectrum.ieee.org/transportation/self-driving/the-big-problem-with-selfdriving-cars-is-people), By RODNEY BROOKS, IEEE Spectrum, July 2017. 刊发媒体：纸质版期刊
-
-
 
 
 ## 译者投稿指南
