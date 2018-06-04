@@ -12,7 +12,7 @@
 
 - [计算社会科学≠计算机科学+社会化数据（译者：丁效、崔佳鸣、卢暾）](http://dl.ccf.org.cn/institude/institudeDetail?id=3891328045811712)，原文：[Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 刊发媒体：纸质版期刊。
 
-### CCCF 2018年第4期 [目录]
+### CCCF 2018年第4期 [目录](http://dl.ccf.org.cn/cccf/list)
 
 - [无服务器化计算（译者：刘宇航）](http://dl.ccf.org.cn/institude/institudeDetail?id=3848256899467264)，原文：[Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage, Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 刊发媒体：纸质版期刊。
 
@@ -39,7 +39,7 @@
 
 - [计算社会科学≠计算机科学+社会化数据（译者：丁效、崔佳鸣、卢暾）](http://dl.ccf.org.cn/institude/institudeDetail?id=3891328045811712)，原文：[Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 刊发媒体：纸质版期刊。
 
-### CCCF 2018年第4期 [目录]
+### CCCF 2018年第4期 [目录](http://dl.ccf.org.cn/cccf/list)
 
 - [无服务器化计算（译者：刘宇航）](http://dl.ccf.org.cn/institude/institudeDetail?id=3848256899467264)，原文：[Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage, Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 刊发媒体：纸质版期刊。
 
