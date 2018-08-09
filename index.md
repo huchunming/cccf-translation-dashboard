@@ -2,28 +2,29 @@
 
 ## 近期刊出译文
 
-### CCCF 2018年第6期 即将刊出
+### CCCF 2018年第8期 即将刊出
 
-- [比特币底层的激励机制（译者：卢暾）]，原文：[Bitcoin's Academic Pedigree](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45. 特约译者：卢暾，翻译完毕，正在审稿。
+- [计算思维的新视角（译者：何钦铭、李波）](), 原文：[A New Perspective on Computational Thinking](https://cacm.acm.org/magazines/2018/7/229035-a-new-perspective-on-computational-thinking/fulltext), By Osman Yasar, Communications of ACM, July 2018, Vol. 61 No 7, Pages 33-39. 翻译进行中...
 
-- [Gaming Machine Learning](https://cacm.acm.org/magazines/2017/12/223056-gaming-machine-learning/fulltext), By Samuel Greengard, Communications of ACM, Vol. 60 No. 12, Pages 14-16. 特约译者：刘宇航，翻译完毕，正在审稿。
+### CCCF 2018年第7期 [目录](http://dl.ccf.org.cn/cccf/list)
+
+- [比特币底层的激励机制（译者：徐政、卢暾）](http://dl.ccf.org.cn/institude/institudeDetail?id=3977595718551552)，原文：[Bitcoin's Underlying Incentives](https://cacm.acm.org/magazines/2018/3/225472-bitcoins-underlying-incentives/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45. 刊发媒体：纸质版期刊。
+
+### CCCF 2018年第6期 [目录](http://dl.ccf.org.cn/cccf/list)
+
+- [人工智能芯片（译者：许睿、王海阳、宋明黎）](http://dl.ccf.org.cn/institude/institudeDetail?id=3934275860498432), 原文：[Chips for Artificial Intelligence](https://cacm.acm.org/magazines/2018/4/226374-chips-for-artificial-intelligence/fulltext), By Don Monroe, Communications of ACM, Vol. 61 No. 4, Pages 15-17. 刊发媒体：纸质版期刊。
 
 ### CCCF 2018年第5期 [目录](http://dl.ccf.org.cn/cccf/list)
 
 - [计算社会科学≠计算机科学+社会化数据（译者：丁效、崔佳鸣、卢暾）](http://dl.ccf.org.cn/institude/institudeDetail?id=3891328045811712)，原文：[Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 刊发媒体：纸质版期刊。
 
-### CCCF 2018年第4期 [目录](http://dl.ccf.org.cn/cccf/list)
-
-- [无服务器化计算（译者：刘宇航）](http://dl.ccf.org.cn/institude/institudeDetail?id=3848256899467264)，原文：[Going Serverless](https://cacm.acm.org/magazines/2018/2/224625-going-serverless/fulltext), By Neil Savage, Communications of the ACM, Vol. 61 No. 2, Pages 15-16. 刊发媒体：纸质版期刊。
-
-### CCCF 2018年第3期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2018nd3q/)
-
-- [机器学习能做什么--论其对劳动力的影响（译者：宋明黎）](http://dl.ccf.org.cn/institude/institudeDetail?id=3812601096325120)，原文：[What Can Machine Learning Do? Workforce Implications](http://science.sciencemag.org/content/358/6370/1530), By Erik Brynjolfsson, Tom Mitchell, Science, Vol 358, Issue 6370, December 2017, Page 1530-1534. 刊发媒体：纸质版期刊
-
-
 ## 2018年第7-8期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第7-8期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
+
+- [The Case for Disppearing Cyber Security](https://cacm.acm.org/magazines/2018/7/229051-the-case-for-disappearing-cyber-security/fulltext), By Josiah Dykstra, Eugene H. Spafford, Communication of ACM, July 2018, Vol. 61 No 7, Pages 40-42.  正在征集翻译志愿者
+
+- [Blockchain Revolution Without the Blockchain?](https://cacm.acm.org/magazines/2018/7/229049-blockchain-revolution-without-the-blockchain/fulltext), By Hanna Halaburda, Communications of ACM, July 2018, Vol. 61 No 7, Pages 27-29.  正在征集翻译志愿者
 
 - [Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates 
 Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 正在征集翻译志愿者
@@ -44,6 +45,13 @@ Communications of the ACM, Vol. 61 No. 6, Pages 30-33. 正在征集翻译志愿�
 
 ## CCCF 译文栏目已刊出译文（2018）
 
+### CCCF 2018年第7期 [目录](http://dl.ccf.org.cn/cccf/list)
+
+- [比特币底层的激励机制（译者：徐政、卢暾）](http://dl.ccf.org.cn/institude/institudeDetail?id=3977595718551552)，原文：[Bitcoin's Underlying Incentives](https://cacm.acm.org/magazines/2018/3/225472-bitcoins-underlying-incentives/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45. 刊发媒体：纸质版期刊。
+
+### CCCF 2018年第6期 [目录](http://dl.ccf.org.cn/cccf/list)
+
+- [人工智能芯片（译者：许睿、王海阳、宋明黎）](http://dl.ccf.org.cn/institude/institudeDetail?id=3934275860498432), 原文：[Chips for Artificial Intelligence](https://cacm.acm.org/magazines/2018/4/226374-chips-for-artificial-intelligence/fulltext), By Don Monroe, Communications of ACM, Vol. 61 No. 4, Pages 15-17. 刊发媒体：纸质版期刊。
 
 ### CCCF 2018年第5期 [目录](http://dl.ccf.org.cn/cccf/list)
 
