@@ -14,11 +14,7 @@
 
 - [人工智能芯片（译者：许睿、王海阳、宋明黎）](http://dl.ccf.org.cn/institude/institudeDetail?id=3934275860498432), 原文：[Chips for Artificial Intelligence](https://cacm.acm.org/magazines/2018/4/226374-chips-for-artificial-intelligence/fulltext), By Don Monroe, Communications of ACM, Vol. 61 No. 4, Pages 15-17. 刊发媒体：纸质版期刊。
 
-### CCCF 2018年第5期 [目录](http://dl.ccf.org.cn/cccf/list)
-
-- [计算社会科学≠计算机科学+社会化数据（译者：丁效、崔佳鸣、卢暾）](http://dl.ccf.org.cn/institude/institudeDetail?id=3891328045811712)，原文：[Computational Social Science ≠ Computer Science + Social Data](https://cacm.acm.org/magazines/2018/3/225484-computational-social-science-computer-science-social-data/fulltext), By Hanna Wallach, Communications of the ACM, Vol. 61 No. 3, Pages 42-44. 刊发媒体：纸质版期刊。
-
-## 2018年第7-8期征集译文
+## 2018年第9-10期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第7-8期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
 
@@ -38,9 +34,6 @@ Communications of the ACM, Vol. 61 No. 6, Pages 30-33. 正在征集翻译志愿�
 
 - [How Can We Trust a Robot](https://cacm.acm.org/magazines/2018/3/225480-how-can-we-trust-a-robot/fulltext), By Benjamin Kuipers, Communications of ACM, Vol 61 No. 3, Pages 86-95. 正在征集翻译志愿者
 
-- [Making Security Sustainable](https://cacm.acm.org/magazines/2018/3/225467-making-security-sustainable/fulltext), By Ross Anderson, Communications of the ACM, Vol. 61 No. 3, Pages 24-26. 正在征集翻译志愿者
-
-- [Bitcoin's Academic Pedigree](https://cacm.acm.org/magazines/2017/12/223058-bitcoins-academic-pedigree/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45. 正在征集翻译志愿者
 
 
 ## CCCF 译文栏目已刊出译文（2018）
