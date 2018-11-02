@@ -2,19 +2,27 @@
 
 ## 近期刊出译文
 
-### CCCF 2018年第8期 即将刊出
+### CCCF 2018年第11期 即将刊出
 
-- [计算思维的新视角（译者：何钦铭、李波）](), 原文：[A New Perspective on Computational Thinking](https://cacm.acm.org/magazines/2018/7/229035-a-new-perspective-on-computational-thinking/fulltext), By Osman Yasar, Communications of ACM, July 2018, Vol. 61 No 7, Pages 33-39. 翻译进行中...
+- [Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates 
+Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 刊发媒体：纸质版期刊。
 
-### CCCF 2018年第7期 [目录](http://dl.ccf.org.cn/cccf/list)
 
-- [比特币底层的激励机制（译者：徐政、卢暾）](http://dl.ccf.org.cn/institude/institudeDetail?id=3977595718551552)，原文：[Bitcoin's Underlying Incentives](https://cacm.acm.org/magazines/2018/3/225472-bitcoins-underlying-incentives/fulltext), By Arvind Narayanan, Jeremy Clark, Communications of ACM, Vol. 60 No. 12, Pages 36-45. 刊发媒体：纸质版期刊。
+### CCCF 2018年第10期 [目录](http://dl.ccf.org.cn/cccf/list)
 
-### CCCF 2018年第6期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [计算思维的新视角（译者：何钦铭、李波）](https://dl.ccf.org.cn/institude/institudeDetail?id=4107698228692992), 原文：[A New Perspective on Computational Thinking](https://cacm.acm.org/magazines/2018/7/229035-a-new-perspective-on-computational-thinking/fulltext), By Osman Yasar, Communications of ACM, July 2018, Vol. 61 No 7, Pages 33-39. 刊发媒体：纸质版期刊。
 
-- [人工智能芯片（译者：许睿、王海阳、宋明黎）](http://dl.ccf.org.cn/institude/institudeDetail?id=3934275860498432), 原文：[Chips for Artificial Intelligence](https://cacm.acm.org/magazines/2018/4/226374-chips-for-artificial-intelligence/fulltext), By Don Monroe, Communications of ACM, Vol. 61 No. 4, Pages 15-17. 刊发媒体：纸质版期刊。
+### CCCF 2018年第9期 [目录](http://dl.ccf.org.cn/cccf/list)
 
-## 2018年第9-10期征集译文
+- [加密数字货币的风险（译者：蔡亮、梁秀波、费玲秋、王松）](https://dl.ccf.org.cn/institude/institudeDetail?id=4064979948554240), 原文：[Risks of Cryptocurrencies](https://cacm.acm.org/magazines/2018/6/228046-risks-of-cryptocurrencies/fulltext), By Nicholas Weaver, Communications of ACM, June 2018, Vol. 61 No 6, Pages 20-25. 刊发媒体：纸质版期刊。
+
+### CCCF 2018年第8期 [目录](http://dl.ccf.org.cn/cccf/list)
+
+- [实现数据科学的潜能（译者：刘宇航）](https://dl.ccf.org.cn/institude/institudeDetail?id=4020720363620352), 原文：[Realizing the Potential of Data Science](https://cacm.acm.org/magazines/2018/4/226372-realizing-the-potential-of-data-science/fulltext), By Francine Berman, Rob Rutenbar, Brent Hailpern, Henrik Christensen, Susan Davidson, Deborah Estrin, Michael Franklin, Margaret Martonosi, Padma Raghavan, Victoria Stodden, Alexander S. Szalay. Communications of ACM, April 2018, Vol. 61, Pages 67-72. 刊发媒体：纸质版期刊。
+
+
+
+## 2018年第11-12期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第7-8期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
 
@@ -22,21 +30,30 @@
 
 - [Blockchain Revolution Without the Blockchain?](https://cacm.acm.org/magazines/2018/7/229049-blockchain-revolution-without-the-blockchain/fulltext), By Hanna Halaburda, Communications of ACM, July 2018, Vol. 61 No 7, Pages 27-29.  正在征集翻译志愿者
 
-- [Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates 
-Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 正在征集翻译志愿者
 
 - [Effectiveness of Anonymization in Double-Blind Review](https://cacm.acm.org/magazines/2018/6/228027-effectiveness-of-anonymization-in-double-blind-review/fulltext), By C. Le Goues, Y. Brun, S. Apel, E. Berger, S. Khurshid, Y. Smaragdakis, 
 Communications of the ACM, Vol. 61 No. 6, Pages 30-33. 正在征集翻译志愿者
 
 - [Scale or Fail](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Alexander Repenning, Communications of ACM, Vol 61 No 5, Pages 40-42. 正在征集翻译志愿者
 
-- [Realizing the Potential of Data Science](https://cacm.acm.org/magazines/2018/4/226372-realizing-the-potential-of-data-science/fulltext), By Victoria Stodden, Alexander S. Szalay, Communications of ACM, Vol 61 No 4, Pages 67-72. 正在征集翻译志愿者
-
 - [How Can We Trust a Robot](https://cacm.acm.org/magazines/2018/3/225480-how-can-we-trust-a-robot/fulltext), By Benjamin Kuipers, Communications of ACM, Vol 61 No. 3, Pages 86-95. 正在征集翻译志愿者
 
 
 
 ## CCCF 译文栏目已刊出译文（2018）
+
+### CCCF 2018年第10期 [目录](http://dl.ccf.org.cn/cccf/list)
+
+- [计算思维的新视角（译者：何钦铭、李波）](https://dl.ccf.org.cn/institude/institudeDetail?id=4107698228692992), 原文：[A New Perspective on Computational Thinking](https://cacm.acm.org/magazines/2018/7/229035-a-new-perspective-on-computational-thinking/fulltext), By Osman Yasar, Communications of ACM, July 2018, Vol. 61 No 7, Pages 33-39. 刊发媒体：纸质版期刊。
+
+### CCCF 2018年第9期 [目录](http://dl.ccf.org.cn/cccf/list)
+
+- [加密数字货币的风险（译者：蔡亮、梁秀波、费玲秋、王松）](https://dl.ccf.org.cn/institude/institudeDetail?id=4064979948554240), 原文：[Risks of Cryptocurrencies](https://cacm.acm.org/magazines/2018/6/228046-risks-of-cryptocurrencies/fulltext), By Nicholas Weaver, Communications of ACM, June 2018, Vol. 61 No 6, Pages 20-25. 刊发媒体：纸质版期刊。
+
+### CCCF 2018年第8期 [目录](http://dl.ccf.org.cn/cccf/list)
+
+- [实现数据科学的潜能（译者：刘宇航）](https://dl.ccf.org.cn/institude/institudeDetail?id=4020720363620352), 原文：[Realizing the Potential of Data Science](https://cacm.acm.org/magazines/2018/4/226372-realizing-the-potential-of-data-science/fulltext), By Francine Berman, Rob Rutenbar, Brent Hailpern, Henrik Christensen, Susan Davidson, Deborah Estrin, Michael Franklin, Margaret Martonosi, Padma Raghavan, Victoria Stodden, Alexander S. Szalay. Communications of ACM, April 2018, Vol. 61, Pages 67-72. 刊发媒体：纸质版期刊。
+
 
 ### CCCF 2018年第7期 [目录](http://dl.ccf.org.cn/cccf/list)
 
