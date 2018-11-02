@@ -4,7 +4,7 @@
 
 ### CCCF 2018年第11期 即将刊出
 
--[万维网的偏差（译者：薛世卿、刘幼峰、迂晓强）](), 原文：[Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates, Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 刊发媒体：纸质版期刊。
+- [万维网的偏差（译者：薛世卿、刘幼峰、迂晓强）](), 原文：[Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates, Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 刊发媒体：纸质版期刊。
 
 ### CCCF 2018年第10期 [目录](http://dl.ccf.org.cn/cccf/list)
 
