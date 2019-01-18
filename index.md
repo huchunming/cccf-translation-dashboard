@@ -2,33 +2,56 @@
 
 ## 近期刊出译文
 
-### CCCF 2018年第11期 即将刊出
+### CCCF 2019年第2期 即将刊出
+- [机器学习如何影响本科生计算机课程（译者：刘如意、史媛媛、苗启广）](), 原文：[How Machine Learning Impacts the Undergraduate Computing Curriculum](https://cacm.acm.org/magazines/2018/11/232197-how-machine-learning-impacts-the-undergraduate-computing-curriculum/fulltext), By R. Benjamin Shapiro, Rebecca Fiebrink, Peter Norvig, Communications of the ACM, November 2018, Vol. 61 No. 11, Pages 27-29. 刊发媒体：纸质版期刊。
 
-- [万维网的偏差（译者：薛世卿、刘幼峰、迂晓强）](), 原文：[Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates, Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 刊发媒体：纸质版期刊。
+### CCCF 2019年第1期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [社交媒体中的多方隐私（译者：胡欣宇、岳亚伟）](https://dl.ccf.org.cn/institude/institudeDetail?id=4238088314456064), 原文：[Multiparty Privacy in Social Media](https://cacm.acm.org/magazines/2018/8/229766-multiparty-privacy-in-social-media/fulltext), By Jose M. Such, Natalia Criado, Communications of the ACM, August 2018, Vol. 61 No. 8, Pages 74-81. 刊发媒体：纸质版期刊。
 
-### CCCF 2018年第10期 [目录](http://dl.ccf.org.cn/cccf/list)
+### CCCF 2018年第12期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [ACM道德规范与专业行为准则（译者：陈文光、李悦乔）](https://dl.ccf.org.cn/institude/institudeDetail?id=4195702450440192), 原文：[ACM Code of Ethics and Professional Conduct](http://www.acm.org/code-of-ethics), By ACM Code 2018 Task Force: Executive Committee Don Gotterbarn (Chair), Bo Brinkman et al., ACM Website, https://www.acm.org/code-of-ethics. 刊发媒体：纸质版期刊。
 
-- [计算思维的新视角（译者：何钦铭、李波）](https://dl.ccf.org.cn/institude/institudeDetail?id=4107698228692992), 原文：[A New Perspective on Computational Thinking](https://cacm.acm.org/magazines/2018/7/229035-a-new-perspective-on-computational-thinking/fulltext), By Osman Yasar, Communications of ACM, July 2018, Vol. 61 No 7, Pages 33-39. 刊发媒体：纸质版期刊。
+### CCCF 2018年第11期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [万维网的偏差（译者：薛世卿、刘幼峰、迂晓强）](https://dl.ccf.org.cn/institude/institudeDetail?id=4150980451076096), 原文：[Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates, Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 刊发媒体：纸质版期刊。
 
-### CCCF 2018年第9期 [目录](http://dl.ccf.org.cn/cccf/list)
+## 2019年第3-4期征集译文
 
-- [加密数字货币的风险（译者：蔡亮、梁秀波、费玲秋、王松）](https://dl.ccf.org.cn/institude/institudeDetail?id=4064979948554240), 原文：[Risks of Cryptocurrencies](https://cacm.acm.org/magazines/2018/6/228046-risks-of-cryptocurrencies/fulltext), By Nicholas Weaver, Communications of ACM, June 2018, Vol. 61 No 6, Pages 20-25. 刊发媒体：纸质版期刊。
+以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第3-4期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
 
-## 2018年第11-12期征集译文
+- [Are We Having An Ethical Crisis in Computing?](https://cacm.acm.org/magazines/2019/1/233511-are-we-having-an-ethical-crisis-in-computing/fulltext), By Moshe Y. Vardi, Communications of the ACM, January 2019, Vol. 62 No. 1, Page 7. 正在征集翻译志愿者
 
-以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2018年第7-8期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
+- [Hidden Messages Fool AI](https://cacm.acm.org/magazines/2019/1/233515-hidden-messages-fool-ai/fulltext), By Chris Edwards 
+Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 13-14. 正在征集翻译志愿者
+
+- [Answering Children's Questions About Computers](https://cacm.acm.org/magazines/2019/1/233512-answering-childrens-questions-about-computers/fulltext), By Judy Robertson, Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 8-9. 正在征集翻译志愿者
+
+- [Learning Machine Learning](https://cacm.acm.org/magazines/2018/12/232891-learning-machine-learning/fulltext), By Ted G. Lewis, Peter J. Denning, Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 24-27. 正在征集翻译志愿者
+
+- [AI Judges and Juries](https://cacm.acm.org/magazines/2018/12/232890-ai-judges-and-juries/fulltext), By Logan Kugler 
+Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 翻译完毕，正在审稿中
 
 - [Human-Level Intelligence or Animal-Like Abilities?](https://cacm.acm.org/magazines/2018/10/231373-human-level-intelligence-or-animal-like-abilities/fulltext), By Adnan Darwiche, Communications of the ACM, October 2018, Vol. 61 No. 10, Pages 56-67. 正在征集翻译志愿者
 
 - [Robotic Implants](https://cacm.acm.org/magazines/2018/9/230564-robotic-implants/fulltext), By Gregory Mone, Communications of the ACM, September 2018, Vol. 61 No. 9, Pages 17-18. 正在征集翻译志愿者
 
-- [Multiparty Privacy in Social Media](https://cacm.acm.org/magazines/2018/8/229766-multiparty-privacy-in-social-media/fulltext), By Jose M. Such, Natalia Criado, Communications of the ACM, August 2018, Vol. 61 No. 8, Pages 74-81. 正在征集翻译志愿者
-
 - [The Case for Disppearing Cyber Security](https://cacm.acm.org/magazines/2018/7/229051-the-case-for-disappearing-cyber-security/fulltext), By Josiah Dykstra, Eugene H. Spafford, Communication of ACM, July 2018, Vol. 61 No 7, Pages 40-42.  正在征集翻译志愿者
 
 - [Blockchain Revolution Without the Blockchain?](https://cacm.acm.org/magazines/2018/7/229049-blockchain-revolution-without-the-blockchain/fulltext), By Hanna Halaburda, Communications of ACM, July 2018, Vol. 61 No 7, Pages 27-29.  正在征集翻译志愿者
 
+## CCCF 译文栏目已刊出译文（2019）
+
+### CCCF 2019年第1期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [社交媒体中的多方隐私（译者：胡欣宇、岳亚伟）](https://dl.ccf.org.cn/institude/institudeDetail?id=4238088314456064), 原文：[Multiparty Privacy in Social Media](https://cacm.acm.org/magazines/2018/8/229766-multiparty-privacy-in-social-media/fulltext), By Jose M. Such, Natalia Criado, Communications of the ACM, August 2018, Vol. 61 No. 8, Pages 74-81. 刊发媒体：纸质版期刊。
+
 ## CCCF 译文栏目已刊出译文（2018）
+
+### CCCF 2018年第12期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [ACM道德规范与专业行为准则（译者：陈文光、李悦乔）](https://dl.ccf.org.cn/institude/institudeDetail?id=4195702450440192), 原文：[ACM Code of Ethics and Professional Conduct](http://www.acm.org/code-of-ethics), By ACM Code 2018 Task Force: Executive Committee Don Gotterbarn (Chair), Bo Brinkman et al., ACM Website, https://www.acm.org/code-of-ethics. 刊发媒体：纸质版期刊。
+
+### CCCF 2018年第11期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [万维网的偏差（译者：薛世卿、刘幼峰、迂晓强）](https://dl.ccf.org.cn/institude/institudeDetail?id=4150980451076096), 原文：[Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates, Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 刊发媒体：纸质版期刊。
+
+
 
 ### CCCF 2018年第10期 [目录](http://dl.ccf.org.cn/cccf/list)
 
