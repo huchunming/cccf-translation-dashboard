@@ -16,6 +16,10 @@ Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第3-4期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
 
+- [From Computational Thinking to Computational Action](https://cacm.acm.org/magazines/2019/3/234922-from-computational-thinking-to-computational-action/fulltext), By Mike Tissenhaum, Josh Sheldon, and Hal Abelson, Communication of the ACM, March 2019, Vol. 62 No. 3, Page 34-36. 正在征集翻译志愿者
+
+- [Do We Really Need Computational Thinking?](https://cacm.acm.org/magazines/2019/2/234348-do-we-really-need-computational-thinking/fulltext), By Enrico Nardelli, Communication of the ACM, February 2019, Vol. 62 No. 2, Page 32-35. 正在征集翻译志愿者
+
 - [Are We Having An Ethical Crisis in Computing?](https://cacm.acm.org/magazines/2019/1/233511-are-we-having-an-ethical-crisis-in-computing/fulltext), By Moshe Y. Vardi, Communications of the ACM, January 2019, Vol. 62 No. 1, Page 7. 正在征集翻译志愿者
 
 - [Hidden Messages Fool AI](https://cacm.acm.org/magazines/2019/1/233515-hidden-messages-fool-ai/fulltext), By Chris Edwards 
@@ -24,9 +28,6 @@ Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 13-14. 正在征�
 - [Answering Children's Questions About Computers](https://cacm.acm.org/magazines/2019/1/233512-answering-childrens-questions-about-computers/fulltext), By Judy Robertson, Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 8-9. 正在征集翻译志愿者
 
 - [Learning Machine Learning](https://cacm.acm.org/magazines/2018/12/232891-learning-machine-learning/fulltext), By Ted G. Lewis, Peter J. Denning, Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 24-27. 正在征集翻译志愿者
-
-- [AI Judges and Juries](https://cacm.acm.org/magazines/2018/12/232890-ai-judges-and-juries/fulltext), By Logan Kugler 
-Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 翻译完毕，正在审稿中
 
 - [Human-Level Intelligence or Animal-Like Abilities?](https://cacm.acm.org/magazines/2018/10/231373-human-level-intelligence-or-animal-like-abilities/fulltext), By Adnan Darwiche, Communications of the ACM, October 2018, Vol. 61 No. 10, Pages 56-67. 正在征集翻译志愿者
 
