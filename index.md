@@ -2,19 +2,17 @@
 
 ## 近期刊出译文
 
-### CCCF 2019年第2期 即将刊出
-- [机器学习如何影响本科生计算机课程（译者：刘如意、史媛媛、苗启广）](), 原文：[How Machine Learning Impacts the Undergraduate Computing Curriculum](https://cacm.acm.org/magazines/2018/11/232197-how-machine-learning-impacts-the-undergraduate-computing-curriculum/fulltext), By R. Benjamin Shapiro, Rebecca Fiebrink, Peter Norvig, Communications of the ACM, November 2018, Vol. 61 No. 11, Pages 27-29. 刊发媒体：纸质版期刊。
+### CCCF 2019年第4期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [计算机体系结构将迎来黄金时代（译者：新智元）](https://dl.ccf.org.cn/institude/institudeDetail?id=4367564515608576&_ack=1), 原文：[A New Golden Age for Computing Architecture](https://cacm.acm.org/magazines/2019/2/234352-a-new-golden-age-for-computer-architecture/fulltext), By R. Benjamin Shapiro, Rebecca Fiebrink, Peter Norvig, Communications of the ACM, November 2018, Vol. 61 No. 11, Pages 27-29. 刊发媒体：纸质版期刊。
 
-### CCCF 2019年第1期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [社交媒体中的多方隐私（译者：胡欣宇、岳亚伟）](https://dl.ccf.org.cn/institude/institudeDetail?id=4238088314456064), 原文：[Multiparty Privacy in Social Media](https://cacm.acm.org/magazines/2018/8/229766-multiparty-privacy-in-social-media/fulltext), By Jose M. Such, Natalia Criado, Communications of the ACM, August 2018, Vol. 61 No. 8, Pages 74-81. 刊发媒体：纸质版期刊。
+### CCCF 2019年第3期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [人工智能法官和陪审团（译者：魏书寒、汪方野、卢暾）](https://dl.ccf.org.cn/institude/institudeDetail?id=4320712780843008), 原文：[AI Judges and Juries](https://cacm.acm.org/magazines/2018/12/232890-ai-judges-and-juries/fulltext), By Logan Kugler 
+Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒体：纸质版期刊。
 
-### CCCF 2018年第12期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [ACM道德规范与专业行为准则（译者：陈文光、李悦乔）](https://dl.ccf.org.cn/institude/institudeDetail?id=4195702450440192), 原文：[ACM Code of Ethics and Professional Conduct](http://www.acm.org/code-of-ethics), By ACM Code 2018 Task Force: Executive Committee Don Gotterbarn (Chair), Bo Brinkman et al., ACM Website, https://www.acm.org/code-of-ethics. 刊发媒体：纸质版期刊。
+### CCCF 2019年第2期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [机器学习如何影响本科生计算机课程（译者：刘如意、史媛媛、苗启广）](https://dl.ccf.org.cn/institude/institudeDetail?id=4281322951706624), 原文：[How Machine Learning Impacts the Undergraduate Computing Curriculum](https://cacm.acm.org/magazines/2018/11/232197-how-machine-learning-impacts-the-undergraduate-computing-curriculum/fulltext), By R. Benjamin Shapiro, Rebecca Fiebrink, Peter Norvig, Communications of the ACM, November 2018, Vol. 61 No. 11, Pages 27-29. 刊发媒体：纸质版期刊。
 
-### CCCF 2018年第11期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [万维网的偏差（译者：薛世卿、刘幼峰、迂晓强）](https://dl.ccf.org.cn/institude/institudeDetail?id=4150980451076096), 原文：[Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates, Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 刊发媒体：纸质版期刊。
-
-## 2019年第3-4期征集译文
+## 2019年第5-6期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第3-4期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
 
@@ -39,6 +37,16 @@ Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 翻译完
 - [Blockchain Revolution Without the Blockchain?](https://cacm.acm.org/magazines/2018/7/229049-blockchain-revolution-without-the-blockchain/fulltext), By Hanna Halaburda, Communications of ACM, July 2018, Vol. 61 No 7, Pages 27-29.  正在征集翻译志愿者
 
 ## CCCF 译文栏目已刊出译文（2019）
+
+### CCCF 2019年第4期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [计算机体系结构将迎来黄金时代（译者：新智元）](https://dl.ccf.org.cn/institude/institudeDetail?id=4367564515608576&_ack=1), 原文：[A New Golden Age for Computing Architecture](https://cacm.acm.org/magazines/2019/2/234352-a-new-golden-age-for-computer-architecture/fulltext), By R. Benjamin Shapiro, Rebecca Fiebrink, Peter Norvig, Communications of the ACM, November 2018, Vol. 61 No. 11, Pages 27-29. 刊发媒体：纸质版期刊。
+
+### CCCF 2019年第3期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [人工智能法官和陪审团（译者：魏书寒、汪方野、卢暾）](https://dl.ccf.org.cn/institude/institudeDetail?id=4320712780843008), 原文：[AI Judges and Juries](https://cacm.acm.org/magazines/2018/12/232890-ai-judges-and-juries/fulltext), By Logan Kugler 
+Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒体：纸质版期刊。
+
+### CCCF 2019年第2期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [机器学习如何影响本科生计算机课程（译者：刘如意、史媛媛、苗启广）](https://dl.ccf.org.cn/institude/institudeDetail?id=4281322951706624), 原文：[How Machine Learning Impacts the Undergraduate Computing Curriculum](https://cacm.acm.org/magazines/2018/11/232197-how-machine-learning-impacts-the-undergraduate-computing-curriculum/fulltext), By R. Benjamin Shapiro, Rebecca Fiebrink, Peter Norvig, Communications of the ACM, November 2018, Vol. 61 No. 11, Pages 27-29. 刊发媒体：纸质版期刊。
 
 ### CCCF 2019年第1期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [社交媒体中的多方隐私（译者：胡欣宇、岳亚伟）](https://dl.ccf.org.cn/institude/institudeDetail?id=4238088314456064), 原文：[Multiparty Privacy in Social Media](https://cacm.acm.org/magazines/2018/8/229766-multiparty-privacy-in-social-media/fulltext), By Jose M. Such, Natalia Criado, Communications of the ACM, August 2018, Vol. 61 No. 8, Pages 74-81. 刊发媒体：纸质版期刊。
@@ -124,6 +132,6 @@ Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 翻译完
 
 ## 联系我们
 
-CCCF译文主编：卜佳俊（浙江大学）
+CCCF译文主编：胡春明（北京航空航天大学）
 
-CCCF译文编委：苗启广（西安电子科技大学）、姜波（浙江工商大学）、胡春明（北京航空航天大学）
+CCCF译文编委：苗启广（西安电子科技大学）、姜波（浙江工商大学）、李超（上海交通大学）
