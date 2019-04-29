@@ -19,6 +19,8 @@ Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第3-4期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
 
+- [量子计算展望(译者：孙晓明)](), 原文：[An Outlook for Quantum Computing](), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 翻译完成，译文审稿中... 
+
 - [Do We Really Need Computational Thinking?](https://cacm.acm.org/magazines/2019/2/234348-do-we-really-need-computational-thinking/fulltext), By Enrico Nardelli, Communication of the ACM, February 2019, Vol. 62 No. 2, Page 32-35. 正在征集翻译志愿者
 
 - [Are We Having An Ethical Crisis in Computing?](https://cacm.acm.org/magazines/2019/1/233511-are-we-having-an-ethical-crisis-in-computing/fulltext), By Moshe Y. Vardi, Communications of the ACM, January 2019, Vol. 62 No. 1, Page 7. 正在征集翻译志愿者
