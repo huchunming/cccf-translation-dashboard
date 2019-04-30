@@ -19,7 +19,11 @@ Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第3-4期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 联系。
 
-- [量子计算展望(译者：孙晓明)](), 原文：[An Outlook for Quantum Computing](), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 翻译完成，译文审稿中... 
+- [量子计算展望(译者：孙晓明)](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), 原文：[An Outlook for Quantum Computing](https://ieeexplore.ieee.org/document/8591980), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 翻译完成，译文审稿中... 
+
+- [Web Science in Europe: Beyond Boundaries](), By Steffen Staab, Susan Halford, Wendy Hall, Communications of the ACM, April 2019, Vol. 62 No. 4, Page 74. 正在征集翻译志愿者
+
+- [The Web Is Missing an Essential Part of Infrastructure: An Open Web Index](https://cacm.acm.org/magazines/2019/4/235619-the-web-is-missing-an-essential-part-of-infrastructure/fulltext), Communications of the ACM, April 2019, Vol. 62 No. 4,  Pages 25-27. 正在征集翻译志愿者
 
 - [Do We Really Need Computational Thinking?](https://cacm.acm.org/magazines/2019/2/234348-do-we-really-need-computational-thinking/fulltext), By Enrico Nardelli, Communication of the ACM, February 2019, Vol. 62 No. 2, Page 32-35. 正在征集翻译志愿者
 
