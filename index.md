@@ -21,7 +21,7 @@ Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒
 
 - [量子计算展望(译者：孙晓明)](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), 原文：[An Outlook for Quantum Computing](https://ieeexplore.ieee.org/document/8591980), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 翻译完成，译文审稿中... 
 
-- [Web Science in Europe: Beyond Boundaries](), By Steffen Staab, Susan Halford, Wendy Hall, Communications of the ACM, April 2019, Vol. 62 No. 4, Page 74. 正在征集翻译志愿者
+- [Web Science in Europe: Beyond Boundaries](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), By Steffen Staab, Susan Halford, Wendy Hall, Communications of the ACM, April 2019, Vol. 62 No. 4, Page 74. （译者：白晓颖），翻译进行中，预计5月12日提交翻译稿...
 
 - [The Web Is Missing an Essential Part of Infrastructure: An Open Web Index](https://cacm.acm.org/magazines/2019/4/235619-the-web-is-missing-an-essential-part-of-infrastructure/fulltext), Communications of the ACM, April 2019, Vol. 62 No. 4,  Pages 25-27. 正在征集翻译志愿者
 
