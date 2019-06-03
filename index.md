@@ -3,7 +3,7 @@
 ## 近期刊出译文
 
 ### CCCF 2019年第6期 即将刊出
-- [量子计算展望(译者：孙晓明)](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), 原文：[An Outlook for Quantum Computing](https://ieeexplore.ieee.org/document/8591980), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 刊发媒体：纸质版期刊。
+- [量子计算展望（译者：孙晓明）](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), 原文：[An Outlook for Quantum Computing](https://ieeexplore.ieee.org/document/8591980), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 刊发媒体：纸质版期刊。
 
 ### CCCF 2019年第5期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [从计算思维到计算行动（译者：刘宇航）](https://dl.ccf.org.cn/institude/institudeDetail?id=4407679806523392), 原文：[From Computational Thinking to Computational Action](https://cacm.acm.org/magazines/2019/3/234922-from-computational-thinking-to-computational-action/fulltext), By Mike Tissenhaum, Josh Sheldon, and Hal Abelson, Communication of the ACM, March 2019, Vol. 62 No. 3, Page 34-36. 刊发媒体：纸质版期刊。
