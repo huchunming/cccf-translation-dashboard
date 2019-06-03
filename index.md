@@ -15,9 +15,6 @@
 - [人工智能法官和陪审团（译者：魏书寒、汪方野、卢暾）](https://dl.ccf.org.cn/institude/institudeDetail?id=4320712780843008), 原文：[AI Judges and Juries](https://cacm.acm.org/magazines/2018/12/232890-ai-judges-and-juries/fulltext), By Logan Kugler 
 Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒体：纸质版期刊。
 
-### CCCF 2019年第2期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [机器学习如何影响本科生计算机课程（译者：刘如意、史媛媛、苗启广）](https://dl.ccf.org.cn/institude/institudeDetail?id=4281322951706624), 原文：[How Machine Learning Impacts the Undergraduate Computing Curriculum](https://cacm.acm.org/magazines/2018/11/232197-how-machine-learning-impacts-the-undergraduate-computing-curriculum/fulltext), By R. Benjamin Shapiro, Rebecca Fiebrink, Peter Norvig, Communications of the ACM, November 2018, Vol. 61 No. 11, Pages 27-29. 刊发媒体：纸质版期刊。
-
 ## 2019年第5-6期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第3-4期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
@@ -55,6 +52,9 @@ Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 13-14. 正在征�
 - [Blockchain Revolution Without the Blockchain?](https://cacm.acm.org/magazines/2018/7/229049-blockchain-revolution-without-the-blockchain/fulltext), By Hanna Halaburda, Communications of ACM, July 2018, Vol. 61 No 7, Pages 27-29.  正在征集翻译志愿者
 
 ## CCCF 译文栏目已刊出译文（2019）
+
+### CCCF 2019年第5期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [从计算思维到计算行动（译者：刘宇航）](https://dl.ccf.org.cn/institude/institudeDetail?id=4407679806523392), 原文：[From Computational Thinking to Computational Action](https://cacm.acm.org/magazines/2019/3/234922-from-computational-thinking-to-computational-action/fulltext), By Mike Tissenhaum, Josh Sheldon, and Hal Abelson, Communication of the ACM, March 2019, Vol. 62 No. 3, Page 34-36. 刊发媒体：纸质版期刊。
 
 ### CCCF 2019年第4期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [计算机体系结构将迎来黄金时代（译者：新智元）](https://dl.ccf.org.cn/institude/institudeDetail?id=4367564515608576&_ack=1), 原文：[A New Golden Age for Computing Architecture](https://cacm.acm.org/magazines/2019/2/234352-a-new-golden-age-for-computer-architecture/fulltext), By R. Benjamin Shapiro, Rebecca Fiebrink, Peter Norvig, Communications of the ACM, November 2018, Vol. 61 No. 11, Pages 27-29. 刊发媒体：纸质版期刊。
