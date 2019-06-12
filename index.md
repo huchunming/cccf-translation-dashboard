@@ -15,7 +15,7 @@
 - [人工智能法官和陪审团（译者：魏书寒、汪方野、卢暾）](https://dl.ccf.org.cn/institude/institudeDetail?id=4320712780843008), 原文：[AI Judges and Juries](https://cacm.acm.org/magazines/2018/12/232890-ai-judges-and-juries/fulltext), By Logan Kugler 
 Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒体：纸质版期刊。
 
-## 2019年第5-6期征集译文
+## 2019年第7-8期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第3-4期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
 
