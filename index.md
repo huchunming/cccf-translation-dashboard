@@ -2,28 +2,22 @@
 
 ## 近期刊出译文
 
-### CCCF 2019年第6期 即将刊出
-- [量子计算展望（译者：孙晓明）](), 原文：[An Outlook for Quantum Computing](https://ieeexplore.ieee.org/document/8591980), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 刊发媒体：纸质版期刊。
+### CCCF 2019年第7期 即将刊出
+- [欧洲的Web科学：超越边界（译者：白晓颖）](), 原文：[Web Science in Europe: Beyond Boundaries](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), By Steffen Staab, Susan Halford, Wendy Hall, Communications of the ACM, April 2019, Vol. 62 No. 4, Page 74. 刊发媒体：纸质版期刊。
+
+### CCCF 2019年第6期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [量子计算展望（译者：孙晓明）](https://dl.ccf.org.cn/institude/institudeDetail?id=4453463872358400&_ack=1), 原文：[An Outlook for Quantum Computing](https://ieeexplore.ieee.org/document/8591980), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 刊发媒体：纸质版期刊。
 
 ### CCCF 2019年第5期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [从计算思维到计算行动（译者：刘宇航）](https://dl.ccf.org.cn/institude/institudeDetail?id=4407679806523392), 原文：[From Computational Thinking to Computational Action](https://cacm.acm.org/magazines/2019/3/234922-from-computational-thinking-to-computational-action/fulltext), By Mike Tissenhaum, Josh Sheldon, and Hal Abelson, Communication of the ACM, March 2019, Vol. 62 No. 3, Page 34-36. 刊发媒体：纸质版期刊。
 
-### CCCF 2019年第4期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [计算机体系结构将迎来黄金时代（译者：新智元）](https://dl.ccf.org.cn/institude/institudeDetail?id=4367564515608576&_ack=1), 原文：[A New Golden Age for Computing Architecture](https://cacm.acm.org/magazines/2019/2/234352-a-new-golden-age-for-computer-architecture/fulltext), By R. Benjamin Shapiro, Rebecca Fiebrink, Peter Norvig, Communications of the ACM, November 2018, Vol. 61 No. 11, Pages 27-29. 刊发媒体：纸质版期刊。
-
-### CCCF 2019年第3期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [人工智能法官和陪审团（译者：魏书寒、汪方野、卢暾）](https://dl.ccf.org.cn/institude/institudeDetail?id=4320712780843008), 原文：[AI Judges and Juries](https://cacm.acm.org/magazines/2018/12/232890-ai-judges-and-juries/fulltext), By Logan Kugler 
-Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒体：纸质版期刊。
-
-## 2019年第7-8期征集译文
+## 2019年第8-9期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第3-4期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
 
-- [Web Science in Europe: Beyond Boundaries](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), By Steffen Staab, Susan Halford, Wendy Hall, Communications of the ACM, April 2019, Vol. 62 No. 4, Page 74. （译者：白晓颖），审稿完成，待刊出...
+- [Through Computer Architecture, Darkly](https://cacm.acm.org/magazines/2019/6/236995-through-computer-architecture-darkly/fulltext), By A. T. Markettos, R. N. M. Watson, S. W. Moore, P. Sewell, P. G. Neumann, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 25-27. （译者：苑风凯，侯锐），审稿完成，待刊出...
 
-- [Through Computer Architecture, Darkly](https://cacm.acm.org/magazines/2019/6/236995-through-computer-architecture-darkly/fulltext), By A. T. Markettos, R. N. M. Watson, S. W. Moore, P. Sewell, P. G. Neumann, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 25-27. （译者：侯瑞，苑风凯），翻译完成，审稿中...
-
-- [TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. 正在征集翻译志愿者
+- [TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. （译者：屈静）
 
 - [Personal Data and the Internet of Things](https://cacm.acm.org/magazines/2019/6/236997-personal-data-and-the-internet-of-things/fulltext), By Thomas Pasquier, David Eyers, Jean Bacon, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 32-34. 正在征集翻译志愿者
 
@@ -40,17 +34,11 @@ Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 13-14. 正在征�
 
 - [Answering Children's Questions About Computers](https://cacm.acm.org/magazines/2019/1/233512-answering-childrens-questions-about-computers/fulltext), By Judy Robertson, Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 8-9. 正在征集翻译志愿者
 
-- [Learning Machine Learning](https://cacm.acm.org/magazines/2018/12/232891-learning-machine-learning/fulltext), By Ted G. Lewis, Peter J. Denning, Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 24-27. 正在征集翻译志愿者
-
-- [Human-Level Intelligence or Animal-Like Abilities?](https://cacm.acm.org/magazines/2018/10/231373-human-level-intelligence-or-animal-like-abilities/fulltext), By Adnan Darwiche, Communications of the ACM, October 2018, Vol. 61 No. 10, Pages 56-67. 正在征集翻译志愿者
-
-- [Robotic Implants](https://cacm.acm.org/magazines/2018/9/230564-robotic-implants/fulltext), By Gregory Mone, Communications of the ACM, September 2018, Vol. 61 No. 9, Pages 17-18. 正在征集翻译志愿者
-
-- [The Case for Disppearing Cyber Security](https://cacm.acm.org/magazines/2018/7/229051-the-case-for-disappearing-cyber-security/fulltext), By Josiah Dykstra, Eugene H. Spafford, Communication of ACM, July 2018, Vol. 61 No 7, Pages 40-42.  正在征集翻译志愿者
-
-- [Blockchain Revolution Without the Blockchain?](https://cacm.acm.org/magazines/2018/7/229049-blockchain-revolution-without-the-blockchain/fulltext), By Hanna Halaburda, Communications of ACM, July 2018, Vol. 61 No 7, Pages 27-29.  正在征集翻译志愿者
 
 ## CCCF 译文栏目已刊出译文（2019）
+
+### CCCF 2019年第6期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [量子计算展望（译者：孙晓明）](https://dl.ccf.org.cn/institude/institudeDetail?id=4453463872358400&_ack=1), 原文：[An Outlook for Quantum Computing](https://ieeexplore.ieee.org/document/8591980), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 刊发媒体：纸质版期刊。
 
 ### CCCF 2019年第5期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [从计算思维到计算行动（译者：刘宇航）](https://dl.ccf.org.cn/institude/institudeDetail?id=4407679806523392), 原文：[From Computational Thinking to Computational Action](https://cacm.acm.org/magazines/2019/3/234922-from-computational-thinking-to-computational-action/fulltext), By Mike Tissenhaum, Josh Sheldon, and Hal Abelson, Communication of the ACM, March 2019, Vol. 62 No. 3, Page 34-36. 刊发媒体：纸质版期刊。
