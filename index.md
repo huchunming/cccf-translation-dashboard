@@ -15,7 +15,12 @@
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第10-12期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
 
-- [TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. （译者：？？）
+- [Lifelong Learning in Artificial Neural Networks](https://cacm.acm.org/magazines/2019/6/236992-lifelong-learning-in-artificial-neural-networks/fulltext), By Gary Anthes, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 13-15. （译者：张日崇）
+
+- [TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. （译者：冷静文、王超）
+
+- [I Don't Understand My Car](https://cacm.acm.org/magazines/2019/8/238338-i-dont-understand-my-car/fulltext), By Don Monroe 
+Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 18-19. 正在征集翻译志愿者
 
 - [Personal Data and the Internet of Things](https://cacm.acm.org/magazines/2019/6/236997-personal-data-and-the-internet-of-things/fulltext), By Thomas Pasquier, David Eyers, Jean Bacon, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 32-34. 正在征集翻译志愿者
 
