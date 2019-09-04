@@ -2,22 +2,20 @@
 
 ## 近期刊出译文
 
-### CCCF 2019年第7期 即将刊出
-- [欧洲的Web科学：超越边界（译者：白晓颖）](), 原文：[Web Science in Europe: Beyond Boundaries](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), By Steffen Staab, Susan Halford, Wendy Hall, Communications of the ACM, April 2019, Vol. 62 No. 4, Page 74. 刊发媒体：纸质版期刊。
+### CCCF 2019年第9期 即将刊出
+- [因果推断的七种工具：及对机器学习的反思（译者：李国亮）](), 原文：[The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext), By Judea Pearl, Communications of the ACM, March 2019, Vol. 62 No. 3, Pages 54-60. 刊发媒体：纸质版期刊。
 
-### CCCF 2019年第6期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [量子计算展望（译者：孙晓明）](https://dl.ccf.org.cn/institude/institudeDetail?id=4453463872358400&_ack=1), 原文：[An Outlook for Quantum Computing](https://ieeexplore.ieee.org/document/8591980), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 刊发媒体：纸质版期刊。
+### CCCF 2019年第8期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [入侵计算机体系结构：欧洲的Web科学：超越边界（译者：苑风凯，侯锐）](https://dl.ccf.org.cn/institude/institudeDetail?id=4537845681555456&_ack=1), 原文：[Through Computer Architecture, Darkly](https://cacm.acm.org/magazines/2019/6/236995-through-computer-architecture-darkly/fulltext), By A. T. Markettos, R. N. M. Watson, S. W. Moore, P. Sewell, P. G. Neumann, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 25-27. 刊发媒体：纸质版期刊。
 
-### CCCF 2019年第5期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [从计算思维到计算行动（译者：刘宇航）](https://dl.ccf.org.cn/institude/institudeDetail?id=4407679806523392), 原文：[From Computational Thinking to Computational Action](https://cacm.acm.org/magazines/2019/3/234922-from-computational-thinking-to-computational-action/fulltext), By Mike Tissenhaum, Josh Sheldon, and Hal Abelson, Communication of the ACM, March 2019, Vol. 62 No. 3, Page 34-36. 刊发媒体：纸质版期刊。
+### CCCF 2019年第7期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [欧洲的Web科学：超越边界（译者：白晓颖）](https://dl.ccf.org.cn/institude/institudeDetail?id=4494331064748032&_ack=1), 原文：[Web Science in Europe: Beyond Boundaries](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), By Steffen Staab, Susan Halford, Wendy Hall, Communications of the ACM, April 2019, Vol. 62 No. 4, Page 74. 刊发媒体：纸质版期刊。
 
-## 2019年第8-9期征集译文
+## 2019年第10-12期征集译文
 
-以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第3-4期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
+以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2019年第10-12期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
 
-- [Through Computer Architecture, Darkly](https://cacm.acm.org/magazines/2019/6/236995-through-computer-architecture-darkly/fulltext), By A. T. Markettos, R. N. M. Watson, S. W. Moore, P. Sewell, P. G. Neumann, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 25-27. （译者：苑风凯，侯锐），审稿完成，待刊出...
-
-- [TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. （译者：屈静）
+- [TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. （译者：？？）
 
 - [Personal Data and the Internet of Things](https://cacm.acm.org/magazines/2019/6/236997-personal-data-and-the-internet-of-things/fulltext), By Thomas Pasquier, David Eyers, Jean Bacon, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 32-34. 正在征集翻译志愿者
 
@@ -25,17 +23,20 @@
 
 - [The Web Is Missing an Essential Part of Infrastructure: An Open Web Index](https://cacm.acm.org/magazines/2019/4/235619-the-web-is-missing-an-essential-part-of-infrastructure/fulltext), Communications of the ACM, April 2019, Vol. 62 No. 4,  Pages 25-27. 正在征集翻译志愿者
 
-- [Do We Really Need Computational Thinking?](https://cacm.acm.org/magazines/2019/2/234348-do-we-really-need-computational-thinking/fulltext), By Enrico Nardelli, Communication of the ACM, February 2019, Vol. 62 No. 2, Page 32-35. 正在征集翻译志愿者
-
-- [Are We Having An Ethical Crisis in Computing?](https://cacm.acm.org/magazines/2019/1/233511-are-we-having-an-ethical-crisis-in-computing/fulltext), By Moshe Y. Vardi, Communications of the ACM, January 2019, Vol. 62 No. 1, Page 7. 正在征集翻译志愿者
-
 - [Hidden Messages Fool AI](https://cacm.acm.org/magazines/2019/1/233515-hidden-messages-fool-ai/fulltext), By Chris Edwards 
 Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 13-14. 正在征集翻译志愿者
 
-- [Answering Children's Questions About Computers](https://cacm.acm.org/magazines/2019/1/233512-answering-childrens-questions-about-computers/fulltext), By Judy Robertson, Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 8-9. 正在征集翻译志愿者
-
 
 ## CCCF 译文栏目已刊出译文（2019）
+
+### CCCF 2019年第9期 即将刊出
+- [因果推断的七种工具：及对机器学习的反思（译者：李国亮）](), 原文：[The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext), By Judea Pearl, Communications of the ACM, March 2019, Vol. 62 No. 3, Pages 54-60. 刊发媒体：纸质版期刊。
+
+### CCCF 2019年第8期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [入侵计算机体系结构：欧洲的Web科学：超越边界（译者：苑风凯，侯锐）](https://dl.ccf.org.cn/institude/institudeDetail?id=4537845681555456&_ack=1), 原文：[Through Computer Architecture, Darkly](https://cacm.acm.org/magazines/2019/6/236995-through-computer-architecture-darkly/fulltext), By A. T. Markettos, R. N. M. Watson, S. W. Moore, P. Sewell, P. G. Neumann, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 25-27. 刊发媒体：纸质版期刊。
+
+### CCCF 2019年第7期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [欧洲的Web科学：超越边界（译者：白晓颖）](https://dl.ccf.org.cn/institude/institudeDetail?id=4494331064748032&_ack=1), 原文：[Web Science in Europe: Beyond Boundaries](https://cacm.acm.org/magazines/2019/4/235597-web-science-in-europe/fulltext), By Steffen Staab, Susan Halford, Wendy Hall, Communications of the ACM, April 2019, Vol. 62 No. 4, Page 74. 刊发媒体：纸质版期刊。
 
 ### CCCF 2019年第6期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [量子计算展望（译者：孙晓明）](https://dl.ccf.org.cn/institude/institudeDetail?id=4453463872358400&_ack=1), 原文：[An Outlook for Quantum Computing](https://ieeexplore.ieee.org/document/8591980), By Dmitri Maslov, Yunseong Nam, Jungsang Kim, Proceedings of IEEE, January 2019, Vol. 107 No. 1, Page 5-10. 刊发媒体：纸质版期刊。
@@ -63,8 +64,6 @@ Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒
 
 ### CCCF 2018年第11期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [万维网的偏差（译者：薛世卿、刘幼峰、迂晓强）](https://dl.ccf.org.cn/institude/institudeDetail?id=4150980451076096), 原文：[Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates, Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 刊发媒体：纸质版期刊。
-
-
 
 ### CCCF 2018年第10期 [目录](http://dl.ccf.org.cn/cccf/list)
 
@@ -116,7 +115,6 @@ Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒
 ### CCCF 2017年第11期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd11q/)
 
 - [人工智能的真正风险（译者：胡欣宇）](http://www.ccf.org.cn/c/2017-11-15/618341.shtml)，原文：[The Real Risks of Artificial Intelligence](https://cacm.acm.org/magazines/2017/10/221330-the-real-risks-of-artificial-intelligence/fulltext), By David Lorge Parnas, Communications of the ACM, Vol. 60 No. 10, Pages 27-31. 刊发媒体：纸质版期刊
-
 
 ### CCCF 2017年第10期 [目录](http://www.ccf.org.cn/dl/publications/cccf/2017nd10q/)
 
