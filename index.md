@@ -20,7 +20,7 @@
 - [TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. （译者：冷静文、王超）
 
 - [I Don't Understand My Car](https://cacm.acm.org/magazines/2019/8/238338-i-dont-understand-my-car/fulltext), By Don Monroe 
-Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 18-19. 正在征集翻译志愿者
+Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 18-19. （译者：程时间）
 
 - [Personal Data and the Internet of Things](https://cacm.acm.org/magazines/2019/6/236997-personal-data-and-the-internet-of-things/fulltext), By Thomas Pasquier, David Eyers, Jean Bacon, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 32-34. 正在征集翻译志愿者
 
