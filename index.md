@@ -2,8 +2,6 @@
 
 ## 近期刊出译文
 
-
-
 ### CCCF 2019年第10期 即将刊出
 - [真北十年：从0到6400万神经元的加速历程（译者：冷静文、王超）](), 原文：[TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. 刊发媒体：纸质版期刊
 
@@ -39,10 +37,6 @@ Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 13-14. 正在征�
 
 
 ## CCCF 译文栏目已刊出译文（2019）
-
-
-### CCCF 2019年第10期 即将刊出
-- [真北十年：从0到6400万神经元的加速历程（译者：冷静文、王超）](), 原文：[TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. 刊发媒体：纸质版期刊
 
 ### CCCF 2019年第9期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [因果推断的七种工具：及对机器学习的反思（译者：李国亮）](https://dl.ccf.org.cn/institude/institudeDetail?id=4583137754286080&_ack=1), 原文：[The Seven Tools of Causal Inference, with Reflections on Machine Learning](https://cacm.acm.org/magazines/2019/3/234929-the-seven-tools-of-causal-inference-with-reflections-on-machine-learning/fulltext), By Judea Pearl, Communications of the ACM, March 2019, Vol. 62 No. 3, Pages 54-60. 刊发媒体：纸质版期刊。
