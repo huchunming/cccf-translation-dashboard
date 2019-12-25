@@ -2,15 +2,15 @@
 
 ## 近期刊出译文
 
-### CCCF 2019年第12期 即将刊出
-- [人工神经网络中的终身学习（译者：张日崇）](), 原文：[Lifelong Learning in Artificial Neural Networks](https://cacm.acm.org/magazines/2019/6/236992-lifelong-learning-in-artificial-neural-networks/fulltext), By Gary Anthes, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 13-15. 刊发媒体：纸质版期刊
+### CCCF 2020年第1期 即将刊出
+- [工业规模的知识图谱：教训与挑战（译者：陈华钧）](), 原文：[Industry-Scale Knowledge Graphs: Lessons and Challenges](https://cacm.acm.org/magazines/2019/8/238342-industry-scale-knowledge-graphs/fulltext), By Natasha Noy, Yuqing Gao, Anshu Jain, Anant Narayanan, Alan Patterson, Jamie Taylor, Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 36-43. 刊发媒体：纸质版期刊.
+
+### CCCF 2019年第12期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [人工神经网络中的终身学习（译者：张日崇）](https://dl.ccf.org.cn/institude/institudeDetail?id=4712541728475136&_ack=1), 原文：[Lifelong Learning in Artificial Neural Networks](https://cacm.acm.org/magazines/2019/6/236992-lifelong-learning-in-artificial-neural-networks/fulltext), By Gary Anthes, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 13-15. 刊发媒体：纸质版期刊
 
 ### CCCF 2019年第11期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [我无法理解我的车（译者：程时伟）](https://dl.ccf.org.cn/institude/institudeDetail?id=4672965529077760&_ack=1), 原文：- [I Don't Understand My Car](https://cacm.acm.org/magazines/2019/8/238338-i-dont-understand-my-car/fulltext), By Don Monroe.  
 Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 18-19. 刊发媒体：纸质版期刊
-
-### CCCF 2019年第10期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [真北十年：从0到6400万神经元的加速历程（译者：冷静文、王超）](https://dl.ccf.org.cn/institude/institudeDetail?id=4623537631528960&_state=&_ack=1), 原文：[TrueNorth: Accelerating From Zero to 64 Million Neurons in 10 Years](), By Michael V. DeBole  ; Brian Taba ; Arnon Amir ; Filipp Akopyan ; Alexander Andreopoulos, et al. IEEE Computer, May 2019, Vol. 62 No. 5, Pages 20-29. 刊发媒体：纸质版期刊
 
 ## 2020年第1-2期征集译文
 
@@ -20,9 +20,6 @@ Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 18-19. 刊发媒体
 介绍云计算的“新”趋势——功能作为服务FaaS及无服务器计算的定义，架构，未来发展. 翻译中...（译者：陶清乾）
 
 - [Algorithms, Platforms, and Ethnic Bias](https://cacm.acm.org/magazines/2019/11/240361-algorithms-platforms-and-ethnic-bias/fulltext), By Selena Silva, Martin Kenney, Communications of the ACM, November 2019, Vol. 62 No. 11, Pages 37-39. 关于算法和数据中的偏见问题，近年来随着人工智能在司法医疗和行政领域的应用，人们日益关注技术的公平公正性问题. 翻译完成.（译者：卢墩）
-
-- [Industry-Scale Knowledge Graphs: Lessons and Challenges](https://cacm.acm.org/magazines/2019/8/238342-industry-scale-knowledge-graphs/fulltext), By Natasha Noy, Yuqing Gao, Anshu Jain, Anant Narayanan, Alan Patterson, Jamie Taylor
-Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 36-43. 翻译完成.（译者：陈华钧）
 
 - [Malevolent Machine Learning](https://cacm.acm.org/magazines/2019/12/241047-malevolent-machine-learning/fulltext), By Chris Edwards
 Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 13-15, 回顾对机器学习的样本干扰和攻击的过程。News栏目，篇幅比较短。正在征集翻译志愿者
@@ -41,11 +38,15 @@ Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 13-15, 回顾对
 Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 13-14. 正在征集翻译志愿者
 
 
+## CCCF 译文栏目已刊出译文（2020）
+
+### CCCF 2020年第1期 即将刊出
+- [工业规模的知识图谱：教训与挑战（译者：陈华钧）](), 原文：[Industry-Scale Knowledge Graphs: Lessons and Challenges](https://cacm.acm.org/magazines/2019/8/238342-industry-scale-knowledge-graphs/fulltext), By Natasha Noy, Yuqing Gao, Anshu Jain, Anant Narayanan, Alan Patterson, Jamie Taylor, Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 36-43. 刊发媒体：纸质版期刊.
+
 ## CCCF 译文栏目已刊出译文（2019）
 
-### CCCF 2019年第12期 即将刊出
-- [人工神经网络中的终身学习（译者：张日崇）](), 原文：[Lifelong Learning in Artificial Neural Networks](https://cacm.acm.org/magazines/2019/6/236992-lifelong-learning-in-artificial-neural-networks/fulltext), By Gary Anthes, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 13-15. 刊发媒体：纸质版期刊
-
+### CCCF 2019年第12期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [人工神经网络中的终身学习（译者：张日崇）](https://dl.ccf.org.cn/institude/institudeDetail?id=4712541728475136&_ack=1), 原文：[Lifelong Learning in Artificial Neural Networks](https://cacm.acm.org/magazines/2019/6/236992-lifelong-learning-in-artificial-neural-networks/fulltext), By Gary Anthes, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 13-15. 刊发媒体：纸质版期刊
 ### CCCF 2019年第11期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [我无法理解我的车（译者：程时伟）](https://dl.ccf.org.cn/institude/institudeDetail?id=4672965529077760&_ack=1), 原文：- [I Don't Understand My Car](https://cacm.acm.org/magazines/2019/8/238338-i-dont-understand-my-car/fulltext), By Don Monroe.  
 Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 18-19. 刊发媒体：纸质版期刊
