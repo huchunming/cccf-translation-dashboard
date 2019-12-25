@@ -17,12 +17,12 @@ Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 18-19. 刊发媒体
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2020年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
 
 - [The Rise of Serverless Computing](https://cacm.acm.org/magazines/2019/12/241054-the-rise-of-serverless-computing/fulltext), By Paul Castro, Vatche Ishakian, Vinod Muthusamy, Aleksander Slominski, Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 44-54. 
-介绍云计算的“新”趋势——功能作为服务FaaS及无服务器计算的定义，架构，未来发展. 翻译中，（译者：陶清乾）
+介绍云计算的“新”趋势——功能作为服务FaaS及无服务器计算的定义，架构，未来发展. 翻译中...（译者：陶清乾）
 
-- [Algorithms, Platforms, and Ethnic Bias](https://cacm.acm.org/magazines/2019/11/240361-algorithms-platforms-and-ethnic-bias/fulltext), By Selena Silva, Martin Kenney, Communications of the ACM, November 2019, Vol. 62 No. 11, Pages 37-39. 关于算法和数据中的偏见问题，近年来随着人工智能在司法医疗和行政领域的应用，人们日益关注技术的公平公正性问题. 翻译完成，（译者：卢墩）
+- [Algorithms, Platforms, and Ethnic Bias](https://cacm.acm.org/magazines/2019/11/240361-algorithms-platforms-and-ethnic-bias/fulltext), By Selena Silva, Martin Kenney, Communications of the ACM, November 2019, Vol. 62 No. 11, Pages 37-39. 关于算法和数据中的偏见问题，近年来随着人工智能在司法医疗和行政领域的应用，人们日益关注技术的公平公正性问题. 翻译完成.（译者：卢墩）
 
 - [Industry-Scale Knowledge Graphs: Lessons and Challenges](https://cacm.acm.org/magazines/2019/8/238342-industry-scale-knowledge-graphs/fulltext), By Natasha Noy, Yuqing Gao, Anshu Jain, Anant Narayanan, Alan Patterson, Jamie Taylor
-Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 36-43. 翻译中，（译者：陈华钧）
+Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 36-43. 翻译完成.（译者：陈华钧）
 
 - [Malevolent Machine Learning](https://cacm.acm.org/magazines/2019/12/241047-malevolent-machine-learning/fulltext), By Chris Edwards
 Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 13-15, 回顾对机器学习的样本干扰和攻击的过程。News栏目，篇幅比较短。正在征集翻译志愿者
