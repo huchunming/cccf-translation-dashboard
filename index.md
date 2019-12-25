@@ -12,7 +12,7 @@
 - [我无法理解我的车（译者：程时伟）](https://dl.ccf.org.cn/institude/institudeDetail?id=4672965529077760&_ack=1), 原文：- [I Don't Understand My Car](https://cacm.acm.org/magazines/2019/8/238338-i-dont-understand-my-car/fulltext), By Don Monroe.  
 Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 18-19. 刊发媒体：纸质版期刊
 
-## 2020年第1-2期征集译文
+## 2020年第2-3期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2020年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
 
@@ -33,10 +33,6 @@ Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 13-15, 回顾对
 - [Programmable Solid-State Storage in Future Cloud Datacenters](https://cacm.acm.org/magazines/2019/6/237002-programmable-solid-state-storage-in-future-cloud-datacenters/fulltext), By Jaeyoung Do, Sudipta Sengupta, Steven Swanson, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 54-62. 正在征集翻译志愿者
 
 - [The Web Is Missing an Essential Part of Infrastructure: An Open Web Index](https://cacm.acm.org/magazines/2019/4/235619-the-web-is-missing-an-essential-part-of-infrastructure/fulltext), Communications of the ACM, April 2019, Vol. 62 No. 4,  Pages 25-27. 正在征集翻译志愿者
-
-- [Hidden Messages Fool AI](https://cacm.acm.org/magazines/2019/1/233515-hidden-messages-fool-ai/fulltext), By Chris Edwards 
-Communications of the ACM, January 2019, Vol. 62 No. 1, Pages 13-14. 正在征集翻译志愿者
-
 
 ## CCCF 译文栏目已刊出译文（2020）
 
