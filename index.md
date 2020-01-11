@@ -17,7 +17,7 @@ Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 18-19. 刊发媒体
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2020年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
 
 - [The Rise of Serverless Computing](https://cacm.acm.org/magazines/2019/12/241054-the-rise-of-serverless-computing/fulltext), By Paul Castro, Vatche Ishakian, Vinod Muthusamy, Aleksander Slominski, Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 44-54. 
-介绍云计算的“新”趋势——功能作为服务FaaS及无服务器计算的定义，架构，未来发展. 翻译中...（译者：陶清乾）
+介绍云计算的“新”趋势——功能作为服务FaaS及无服务器计算的定义，架构，未来发展. 翻译完成.（译者：陶清乾）
 
 - [Algorithms, Platforms, and Ethnic Bias](https://cacm.acm.org/magazines/2019/11/240361-algorithms-platforms-and-ethnic-bias/fulltext), By Selena Silva, Martin Kenney, Communications of the ACM, November 2019, Vol. 62 No. 11, Pages 37-39. 关于算法和数据中的偏见问题，近年来随着人工智能在司法医疗和行政领域的应用，人们日益关注技术的公平公正性问题. 翻译完成.（译者：卢墩）
 
@@ -84,6 +84,7 @@ Communications of the ACM, December 2018, Vol. 61 No. 12, Pages 19-21. 刊发媒
 - [ACM道德规范与专业行为准则（译者：陈文光、李悦乔）](https://dl.ccf.org.cn/institude/institudeDetail?id=4195702450440192), 原文：[ACM Code of Ethics and Professional Conduct](http://www.acm.org/code-of-ethics), By ACM Code 2018 Task Force: Executive Committee Don Gotterbarn (Chair), Bo Brinkman et al., ACM Website, https://www.acm.org/code-of-ethics. 刊发媒体：纸质版期刊。
 
 ### CCCF 2018年第11期 [目录](http://dl.ccf.org.cn/cccf/list)
+
 - [万维网的偏差（译者：薛世卿、刘幼峰、迂晓强）](https://dl.ccf.org.cn/institude/institudeDetail?id=4150980451076096), 原文：[Bias on the Web](https://cacm.acm.org/magazines/2018/5/227197-scale-or-fail/fulltext), By Ricardo Baeza-Yates, Communications of the ACM, June 2018, Vol. 61 No. 6, Pages 54-61. 刊发媒体：纸质版期刊。
 
 ### CCCF 2018年第10期 [目录](http://dl.ccf.org.cn/cccf/list)
