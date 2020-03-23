@@ -15,6 +15,21 @@
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2020年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
 
+- [对话 Ed Catmull], 原文：[A Conversation with Ed Catmull](https://cacm.acm.org/magazines/2010/12/102132-a-conversation-with-ed-catmull/fulltext), By Pat Hanrahan. Communications of the ACM, December 2010, Vol. 53 No. 12, Pages 42-47. 这是一篇十年前的访谈，巧合的是，2020年3月18日，ACM官方公布了2019年度图灵奖的获得者，Patrick M. Hanrahan和Edwin E. Catmull，以表彰他们对3D计算机图形学的贡献。而这两个人分别是这篇访谈的访谈人和被访谈人。翻译完成，正在审稿中。（译者：袁晓如）
+
+- [区块链技术，好用在哪里？], 原文：[Blockchain Technology: What Is It Good For?](https://cacm.acm.org/magazines/2020/1/241715-blockchain-technology/fulltext), By Scott Ruoti, Ben Kaiser, Arkady Yerukhimovich, Jeremy Clark, Robert Cunningham, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 46-53. 本文通过对非学术来源（行业白皮书）进行分析，涵盖的企业：从初创企业到中小型企业，再到财富500强企业，探讨区块链技术的技术属性、应用场景、挑战与局限性。翻译完成，正在审稿中。（译者：韩伟力、黄大鹏、陈辰、阮文强、陈鼎洁、王晓阳）
+
+- [边缘计算的可靠性], 原文：[Dependability in Edge Computing](https://cacm.acm.org/magazines/2020/1/241702-dependability-in-edge-computing/fulltext), By Saurabh Bagchi, Muhammad-Bilal Siddiqui, Paul Wood, Heng Zhang, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 58-66. 本文讨论翻译完成，正在审稿中。（译者：赵路坦、饶凌云、侯锐）
+
+- [可解释机器学习技术], 原文：[Techniques for Interpretable Machine Learning](https://cacm.acm.org/magazines/2020/1/241703-techniques-for-interpretable-machine-learning/fulltext), By Mengnan Du, Ninghao Liu, Xia Hu， Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 68-77. 本文总结了可解释机器学习的三条研究路线：设计内生可解释模型（包括全局和局部模型）、后置全局解释和后置局部解释模型，探讨当前技术的应用和挑战，讨论现有可解释模型的局限性及发展方向。翻译完成，正在审稿中。（译者：胡欣宇）
+
+- [企业Wi-Fi：我们默认需要安全的设备], 原文：[Enterprise Wi-Fi: We Need Devices That Are Secure by Default](https://cacm.acm.org/magazines/2019/5/236421-enterprise-wi-fi/fulltext), By Alberto Bartoli, Eric Medvet, Andrea De Lorenzo, Fabiano Tarlao, Communications of the ACM, May 2019, Vol. 62 No. 5, Pages 33-35. 本文探讨了针对企业无线网络（特别是WPA2协议）的攻击场景，呼吁技术及工业领域对这种风险的认识。翻译完成，正在审稿中。（译者：朱小栋）
+
+- [Dilemmas of artificial intelligence](https://cacm.acm.org/magazines/2020/3/243021-dilemmas-of-artificial-intelligence/fulltext), By Peter J. Denning, Dorothy E. Denning, Communications of the ACM, March 2020, Vol. 63 No. 3, Pages 22-24. 介绍AI中10个最突出的难题：可解释性、脆弱性、训练数据偏差、（图像）伪造、获得训练数据的高代价、AI的军事用途、AI武器系统和控制、冲击雇佣市场和减少工作岗位、监控资本主义、机器自动决策等。正在征集翻译志愿者
+
+- [Crowdsourcing Moral Machines](https://cacm.acm.org/magazines/2020/3/243030-crowdsourcing-moral-machines/fulltext), Communications of the ACM, March 2020, VOL. 63, No. 3, Pages 48-55. 文章提出了结合哲学，心理学，人文科学，计算机科学和统计学等工具的监督框架，以自主驾驶汽车的AI道德问题为例基于众包方式进行分析研究。正在征集翻译志愿者
+
+
 - [Malevolent Machine Learning](https://cacm.acm.org/magazines/2019/12/241047-malevolent-machine-learning/fulltext), By Chris Edwards
 Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 13-15, 回顾对机器学习的样本干扰和攻击的过程。News栏目，篇幅比较短。正在征集翻译志愿者
 
