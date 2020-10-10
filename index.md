@@ -3,7 +3,7 @@
 ## 近期刊出译文
 
 ### CCCF 2020年第10期 即将刊出
-- [车辆自动驾驶安全：从航电系统借鉴经验(译者：葛宁)](), 原文：[Autonomous Vehicle Safety: Lessons from Aviation](https://cacm.acm.org/magazines/2020/9/246933-autonomous-vehicle-safety/fulltext), By Jaynarayan H. Lala, Carl E. Landwehr, John F. Meyer, Communications of the ACM, September 2020, Vol. 63 No. 9, Pages 28-31。翻译完成，即将刊出。
+- [车辆自动驾驶安全：从航电系统借鉴经验(译者：葛宁)](), 原文：[Autonomous Vehicle Safety: Lessons from Aviation](https://cacm.acm.org/magazines/2020/9/246933-autonomous-vehicle-safety/fulltext), By Jaynarayan H. Lala, Carl E. Landwehr, John F. Meyer, Communications of the ACM, September 2020, Vol. 63 No. 9, Pages 28-31。刊发媒体：纸质版期刊.
 
 ### CCCF 2020年第8期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [边缘计算的可靠性（译者：赵路坦、饶凌云、侯锐）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=5055149814499328), 原文：[Dependability in Edge Computing](https://cacm.acm.org/magazines/2020/1/241702-dependability-in-edge-computing/fulltext), By Saurabh Bagchi, Muhammad-Bilal Siddiqui, Paul Wood, Heng Zhang, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 58-66. 刊发媒体：纸质版期刊.
@@ -36,6 +36,9 @@
 - [The Web Is Missing an Essential Part of Infrastructure: An Open Web Index](https://cacm.acm.org/magazines/2019/4/235619-the-web-is-missing-an-essential-part-of-infrastructure/fulltext), Communications of the ACM, April 2019, Vol. 62 No. 4,  Pages 25-27. 正在征集翻译志愿者
 
 ## CCCF 译文栏目已刊出译文（2020）
+
+### CCCF 2020年第10期 即将刊出
+- [车辆自动驾驶安全：从航电系统借鉴经验(译者：葛宁)](), 原文：[Autonomous Vehicle Safety: Lessons from Aviation](https://cacm.acm.org/magazines/2020/9/246933-autonomous-vehicle-safety/fulltext), By Jaynarayan H. Lala, Carl E. Landwehr, John F. Meyer, Communications of the ACM, September 2020, Vol. 63 No. 9, Pages 28-31。刊发媒体：纸质版期刊.
 
 ### CCCF 2020年第8期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [边缘计算的可靠性（译者：赵路坦、饶凌云、侯锐）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=5055149814499328), 原文：[Dependability in Edge Computing](https://cacm.acm.org/magazines/2020/1/241702-dependability-in-edge-computing/fulltext), By Saurabh Bagchi, Muhammad-Bilal Siddiqui, Paul Wood, Heng Zhang, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 58-66. 刊发媒体：纸质版期刊.
