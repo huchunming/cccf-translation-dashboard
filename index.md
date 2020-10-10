@@ -2,26 +2,28 @@
 
 ## 近期刊出译文
 
-### CCCF 2020年第3期 即将刊出
-- [无服务计算的兴起（译者：陶清乾）](https://dl.ccf.org.cn/institude/institudeDetail?id=4844088850237440&_ack=1), 原文：[The Rise of Serverless Computing](https://cacm.acm.org/magazines/2019/12/241054-the-rise-of-serverless-computing/fulltext), By Paul Castro, Vatche Ishakian, Vinod Muthusamy, Aleksander Slominski, Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 44-54. 刊发媒体：纸质版期刊.
+### CCCF 2020年第10期 即将刊出
+- [车辆自动驾驶安全：从航电系统借鉴经验(译者：葛宁)](), 原文：[Autonomous Vehicle Safety: Lessons from Aviation](https://cacm.acm.org/magazines/2020/9/246933-autonomous-vehicle-safety/fulltext), By Jaynarayan H. Lala, Carl E. Landwehr, John F. Meyer, Communications of the ACM, September 2020, Vol. 63 No. 9, Pages 28-31。翻译完成，即将刊出。
 
-### CCCF 2020年第2期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [算法、平台和种族偏见（译者：卢墩）](https://dl.ccf.org.cn/institude/institudeDetail?id=4810590979835904), 原文：[Algorithms, Platforms, and Ethnic Bias](https://cacm.acm.org/magazines/2019/11/240361-algorithms-platforms-and-ethnic-bias/fulltext), By Selena Silva, Martin Kenney, Communications of the ACM, November 2019, Vol. 62 No. 11, Pages 37-39. 刊发媒体：纸质版期刊.
+### CCCF 2020年第8期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [边缘计算的可靠性（译者：赵路坦、饶凌云、侯锐）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=5055149814499328), 原文：[Dependability in Edge Computing](https://cacm.acm.org/magazines/2020/1/241702-dependability-in-edge-computing/fulltext), By Saurabh Bagchi, Muhammad-Bilal Siddiqui, Paul Wood, Heng Zhang, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 58-66. 刊发媒体：纸质版期刊.
 
-### CCCF 2020年第1期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [工业规模的知识图谱：教训与挑战（译者：陈华钧）](), 原文：[Industry-Scale Knowledge Graphs: Lessons and Challenges](https://cacm.acm.org/magazines/2019/8/238342-industry-scale-knowledge-graphs/fulltext), By Natasha Noy, Yuqing Gao, Anshu Jain, Anant Narayanan, Alan Patterson, Jamie Taylor, Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 36-43. 刊发媒体：纸质版期刊.
+### CCCF 2020年第7期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [机器学习技术用于威士忌的品评（译者：彭思龙）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=5011538091902976), 原文：[Machine Learning, Meet Whiskey](https://cacm.acm.org/magazines/2020/4/243621-machine-learning-meet-whiskey/fulltext), By Gregory Mone. Communications of the ACM, April 2020, Vol. 63 No. 4, Pages 16-17. 刊发媒体：纸质版期刊.
 
-## 2020年第4-5期征集译文
+### CCCF 2020年第6期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [可解释机器学习技术（译者：胡欣宇）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=4971410489018368), 原文：[Techniques for Interpretable Machine Learning](https://cacm.acm.org/magazines/2020/1/241703-techniques-for-interpretable-machine-learning/fulltext), By Mengnan Du, Ninghao Liu, Xia Hu， Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 68-77. 刊发媒体：纸质版期刊.
+
+
+
+## 2020年第10-12期征集译文
 
 以下文章是我们建议翻译并争取刊发在《中国计算机学会通讯CCCF》2020年第1-2期纸质或网络刊物上的建议翻译文章清单，如您有兴趣申请翻译其中的译文，或者加入特约译者共同翻译，请阅读 译文投稿指南，并与本期责任编辑 苗启广（[qgmiao@xidian.edu.cn](mailto:qgmiao@xidian.edu.cn)）、胡春明（[hucm@buaa.edu.cn](mailto:hucm@buaa.edu.cn)） 、姜波、李超（上海交通大学）联系。
 
-- [对话 Ed Catmull], 原文：[A Conversation with Ed Catmull](https://cacm.acm.org/magazines/2010/12/102132-a-conversation-with-ed-catmull/fulltext), By Pat Hanrahan. Communications of the ACM, December 2010, Vol. 53 No. 12, Pages 42-47. 这是一篇十年前的访谈，巧合的是，2020年3月18日，ACM官方公布了2019年度图灵奖的获得者，Patrick M. Hanrahan和Edwin E. Catmull，以表彰他们对3D计算机图形学的贡献。而这两个人分别是这篇访谈的访谈人和被访谈人。翻译完成，正在审稿中。（译者：袁晓如）
 
-- [区块链技术，好用在哪里？], 原文：[Blockchain Technology: What Is It Good For?](https://cacm.acm.org/magazines/2020/1/241715-blockchain-technology/fulltext), By Scott Ruoti, Ben Kaiser, Arkady Yerukhimovich, Jeremy Clark, Robert Cunningham, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 46-53. 本文通过对非学术来源（行业白皮书）进行分析，涵盖的企业：从初创企业到中小型企业，再到财富500强企业，探讨区块链技术的技术属性、应用场景、挑战与局限性。翻译完成，正在审稿中。（译者：韩伟力、黄大鹏、陈辰、阮文强、陈鼎洁、王晓阳）
+- [新冠肺炎时代下的虚拟合作（译者：刘宇航、赵沛霖）](), 原文：[Virtual Collaboration in the Age of the Coronavirus](https://cacm.acm.org/magazines/2020/9/246930-virtual-collaboration-in-the-age-of-the-coronavirus/fulltext), By Paul Marks, Communications of the ACM, September 2020, Vol. 63 No. 9, Pages 21-23。翻译完成，即将刊出。
 
-- [边缘计算的可靠性], 原文：[Dependability in Edge Computing](https://cacm.acm.org/magazines/2020/1/241702-dependability-in-edge-computing/fulltext), By Saurabh Bagchi, Muhammad-Bilal Siddiqui, Paul Wood, Heng Zhang, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 58-66. 本文讨论翻译完成，正在审稿中。（译者：赵路坦、饶凌云、侯锐）
-
-- [可解释机器学习技术], 原文：[Techniques for Interpretable Machine Learning](https://cacm.acm.org/magazines/2020/1/241703-techniques-for-interpretable-machine-learning/fulltext), By Mengnan Du, Ninghao Liu, Xia Hu， Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 68-77. 本文总结了可解释机器学习的三条研究路线：设计内生可解释模型（包括全局和局部模型）、后置全局解释和后置局部解释模型，探讨当前技术的应用和挑战，讨论现有可解释模型的局限性及发展方向。翻译完成，正在审稿中。（译者：胡欣宇）
+- [AI on Edge](https://cacm.acm.org/magazines/2020/9/246931-ai-on-edge/fulltext), By Samuel Greengard, Communications of the ACM, September 2020, Vol. 63 No. 9, Pages 18-20。正在征集翻译志愿者
 
 - [企业Wi-Fi：我们默认需要安全的设备], 原文：[Enterprise Wi-Fi: We Need Devices That Are Secure by Default](https://cacm.acm.org/magazines/2019/5/236421-enterprise-wi-fi/fulltext), By Alberto Bartoli, Eric Medvet, Andrea De Lorenzo, Fabiano Tarlao, Communications of the ACM, May 2019, Vol. 62 No. 5, Pages 33-35. 本文探讨了针对企业无线网络（特别是WPA2协议）的攻击场景，呼吁技术及工业领域对这种风险的认识。翻译完成，正在审稿中。（译者：朱小栋）
 
@@ -29,30 +31,35 @@
 
 - [Crowdsourcing Moral Machines](https://cacm.acm.org/magazines/2020/3/243030-crowdsourcing-moral-machines/fulltext), Communications of the ACM, March 2020, VOL. 63, No. 3, Pages 48-55. 文章提出了结合哲学，心理学，人文科学，计算机科学和统计学等工具的监督框架，以自主驾驶汽车的AI道德问题为例基于众包方式进行分析研究。正在征集翻译志愿者
 
-
-- [Malevolent Machine Learning](https://cacm.acm.org/magazines/2019/12/241047-malevolent-machine-learning/fulltext), By Chris Edwards
-Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 13-15, 回顾对机器学习的样本干扰和攻击的过程。News栏目，篇幅比较短。正在征集翻译志愿者
-
 - [API Practices If You Hate Your Customers](https://cacm.acm.org/magazines/2019/12/241052-api-practices-if-you-hate-your-customers/fulltext), By Thomas A. Limoncelli, Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 38-42. 正在征集翻译志愿者
-
-- [Real-World Applications for Drones](https://cacm.acm.org/magazines/2019/11/240355-real-world-applications-for-drones/fulltext), By Logan Kugler, Communications of the ACM, November 2019, Vol. 62 No. 11, Pages 19-21. 讨论无人机普适计算的应用方向，不仅限于电子商务和物流领域，还涉及到摄影测绘、医疗民生等方面. 正在征集翻译志愿者
-
-- [Personal Data and the Internet of Things](https://cacm.acm.org/magazines/2019/6/236997-personal-data-and-the-internet-of-things/fulltext), By Thomas Pasquier, David Eyers, Jean Bacon, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 32-34. 正在征集翻译志愿者
-
-- [Programmable Solid-State Storage in Future Cloud Datacenters](https://cacm.acm.org/magazines/2019/6/237002-programmable-solid-state-storage-in-future-cloud-datacenters/fulltext), By Jaeyoung Do, Sudipta Sengupta, Steven Swanson, Communications of the ACM, June 2019, Vol. 62 No. 6, Pages 54-62. 正在征集翻译志愿者
 
 - [The Web Is Missing an Essential Part of Infrastructure: An Open Web Index](https://cacm.acm.org/magazines/2019/4/235619-the-web-is-missing-an-essential-part-of-infrastructure/fulltext), Communications of the ACM, April 2019, Vol. 62 No. 4,  Pages 25-27. 正在征集翻译志愿者
 
 ## CCCF 译文栏目已刊出译文（2020）
 
-### CCCF 2020年第3期 即将刊出
+### CCCF 2020年第8期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [边缘计算的可靠性（译者：赵路坦、饶凌云、侯锐）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=5055149814499328), 原文：[Dependability in Edge Computing](https://cacm.acm.org/magazines/2020/1/241702-dependability-in-edge-computing/fulltext), By Saurabh Bagchi, Muhammad-Bilal Siddiqui, Paul Wood, Heng Zhang, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 58-66. 刊发媒体：纸质版期刊.
+
+### CCCF 2020年第7期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [机器学习技术用于威士忌的品评（译者：彭思龙）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=5011538091902976), 原文：[Machine Learning, Meet Whiskey](https://cacm.acm.org/magazines/2020/4/243621-machine-learning-meet-whiskey/fulltext), By Gregory Mone. Communications of the ACM, April 2020, Vol. 63 No. 4, Pages 16-17. 刊发媒体：纸质版期刊.
+
+### CCCF 2020年第6期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [可解释机器学习技术（译者：胡欣宇）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=4971410489018368), 原文：[Techniques for Interpretable Machine Learning](https://cacm.acm.org/magazines/2020/1/241703-techniques-for-interpretable-machine-learning/fulltext), By Mengnan Du, Ninghao Liu, Xia Hu， Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 68-77. 刊发媒体：纸质版期刊.
+
+### CCCF 2020年第5期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [和艾德.卡特姆（Ed Catmull）的访谈（译者：袁晓如）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=4926693992695808), 原文：[A Conversation with Ed Catmull](https://cacm.acm.org/magazines/2010/12/102132-a-conversation-with-ed-catmull/fulltext), By Pat Hanrahan. Communications of the ACM, December 2010, Vol. 53 No. 12, Pages 42-47. 刊发媒体：纸质版期刊.
+
+### CCCF 2020年第4期 [目录](http://dl.ccf.org.cn/cccf/list)
+- [区块链技术，好用在哪里？（译者：韩伟力、黄大鹏、陈辰、阮文强、陈鼎洁、王晓阳）], 原文：[Blockchain Technology: What Is It Good For?](https://cacm.acm.org/magazines/2020/1/241715-blockchain-technology/fulltext), By Scott Ruoti, Ben Kaiser, Arkady Yerukhimovich, Jeremy Clark, Robert Cunningham, Communications of the ACM, January 2020, Vol. 63 No. 1, Pages 46-53. 刊发媒体：纸质版期刊.
+
+### CCCF 2020年第3期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [无服务计算的兴起（译者：陶清乾）](https://dl.ccf.org.cn/institude/institudeDetail?id=4844088850237440&_ack=1), 原文：[The Rise of Serverless Computing](https://cacm.acm.org/magazines/2019/12/241054-the-rise-of-serverless-computing/fulltext), By Paul Castro, Vatche Ishakian, Vinod Muthusamy, Aleksander Slominski, Communications of the ACM, December 2019, Vol. 62 No. 12, Pages 44-54. 刊发媒体：纸质版期刊.
 
 ### CCCF 2020年第2期 [目录](http://dl.ccf.org.cn/cccf/list)
 - [算法、平台和种族偏见（译者：卢墩）](https://dl.ccf.org.cn/institude/institudeDetail?id=4810590979835904), 原文：[Algorithms, Platforms, and Ethnic Bias](https://cacm.acm.org/magazines/2019/11/240361-algorithms-platforms-and-ethnic-bias/fulltext), By Selena Silva, Martin Kenney, Communications of the ACM, November 2019, Vol. 62 No. 11, Pages 37-39. 刊发媒体：纸质版期刊.
 
 ### CCCF 2020年第1期 [目录](http://dl.ccf.org.cn/cccf/list)
-- [工业规模的知识图谱：教训与挑战（译者：陈华钧）](), 原文：[Industry-Scale Knowledge Graphs: Lessons and Challenges](https://cacm.acm.org/magazines/2019/8/238342-industry-scale-knowledge-graphs/fulltext), By Natasha Noy, Yuqing Gao, Anshu Jain, Anant Narayanan, Alan Patterson, Jamie Taylor, Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 36-43. 刊发媒体：纸质版期刊.
+- [工业规模的知识图谱：教训与挑战（译者：陈华钧）](https://dl.ccf.org.cn/institude/institudeDetail?_ack=1&id=4756333935118336), 原文：[Industry-Scale Knowledge Graphs: Lessons and Challenges](https://cacm.acm.org/magazines/2019/8/238342-industry-scale-knowledge-graphs/fulltext), By Natasha Noy, Yuqing Gao, Anshu Jain, Anant Narayanan, Alan Patterson, Jamie Taylor, Communications of the ACM, August 2019, Vol. 62 No. 8, Pages 36-43. 刊发媒体：纸质版期刊.
 
 ## CCCF 译文栏目已刊出译文（2019）
 
